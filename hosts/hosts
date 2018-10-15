@@ -1,4 +1,4 @@
-## 2018-10-15 19:07:07
+## 2018-10-16 00:20:35
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -116,7 +116,6 @@
 127.0.0.1 pageshow.dftoutiao.com
 127.0.0.1 pcminitj.dftoutiao.com
 127.0.0.1 position.dftoutiao.com
-127.0.0.1 lib.baomitu.com
 127.0.0.1 s1.milkjpg.com
 127.0.0.1 new.taobc.com
 127.0.0.1 afp.alicdn.com
@@ -1558,13 +1557,6 @@
 127.0.0.1 2.tuxi.com.cn
 127.0.0.1 mip.yuelvxing.com
 127.0.0.1 bdjs.laonanren.com
-127.0.0.1 ad.unimhk.com
-127.0.0.1 pixel-hk.pixelinteractivemedia.com
-127.0.0.1 snap.snapmobile.asia
-127.0.0.1 static.snapmobile.asia
-127.0.0.1 adx.adxglobal.com
-127.0.0.1 a.epinv.com
-127.0.0.1 b.epinv.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 tvupgrade.yunos.com
@@ -2182,6 +2174,13 @@
 127.0.0.1 m.gbaog.com
 127.0.0.1 hdjhsudhe.kuaizhan.com
 127.0.0.1 zhuanshenghuo1.kuaizhan.com
+127.0.0.1 e.enjuw.com
+127.0.0.1 e.zmlfk.com
+127.0.0.1 m.enjuw.com
+127.0.0.1 m.nbaob.com
+127.0.0.1 m.zmlfk.com
+127.0.0.1 qm.rcaiv.com
+127.0.0.1 www.poke88.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -2380,6 +2379,7 @@
 127.0.0.1 abc.douguo.com
 127.0.0.1 ggb.douguo.com
 127.0.0.1 ab.meishiba.com.cn
+127.0.0.1 baidu-union-js.chuimg.com
 127.0.0.1 dn-growing.qbox.me
 127.0.0.1 d.xinshipu.com
 127.0.0.1 j.xinshipu.com
@@ -2513,6 +2513,8 @@
 127.0.0.1 bd2.nipic.com
 127.0.0.1 util.nphoto.net
 127.0.0.1 www8.xitek.com
+127.0.0.1 a.epinv.com
+127.0.0.1 b.epinv.com
 127.0.0.1 01daa.lubih.com
 127.0.0.1 01daa.lutci.com
 127.0.0.1 01daa.lutgh.com
@@ -4712,6 +4714,11 @@
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
+127.0.0.1 ad.unimhk.com
+127.0.0.1 pixel-hk.pixelinteractivemedia.com
+127.0.0.1 snap.snapmobile.asia
+127.0.0.1 static.snapmobile.asia
+127.0.0.1 adx.adxglobal.com
 127.0.0.1 daohang.114so.cn
 127.0.0.1 www.114so.cn
 127.0.0.1 sddnserror2.wo.com.cn
