@@ -53,7 +53,7 @@
 #重复127.0.0.1 vs12.bj.u3.ucweb.com
 127.0.0.1 navicms.ucweb.com
 127.0.0.1 gm.mmstat.com
-127.0.0.1 log.mmstat.com
+#重复127.0.0.1 log.mmstat.com
 127.0.0.1 broccoli.ucweb.com
 127.0.0.1 us.ynuf.aliapp.org
 127.0.0.1 acs.maribacaberita.com
