@@ -1,4 +1,4 @@
-## 2018-10-18 04:08:03
+## 2018-10-24 01:28:50
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -194,6 +194,7 @@
 127.0.0.1 www.ads80.com
 127.0.0.1 www.878090.com
 127.0.0.1 img.zx590.com
+127.0.0.1 wx.zx590.com
 127.0.0.1 hjc1990.com
 127.0.0.1 cz.ifeng0.com
 127.0.0.1 cdn.0i-i0.com
@@ -822,6 +823,7 @@
 127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 ms.vipstatic.com
 127.0.0.1 vimg.dwstatic.com
+127.0.0.1 ycy.hyjyjc.com
 127.0.0.1 www.jrdkc.com
 127.0.0.1 lz.chaelc.com
 127.0.0.1 www.hzxfmc.com
@@ -1222,6 +1224,7 @@
 127.0.0.1 wb.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 beacon.gtimg.com
+127.0.0.1 i4.fuimg.com
 127.0.0.1 baidu-union-js.chuimg.com
 127.0.0.1 bu01.zybang.com
 127.0.0.1 bu02.zybang.com
@@ -1546,6 +1549,7 @@
 127.0.0.1 s1.mingmingtehui.com
 127.0.0.1 s2.mingmingtehui.com
 127.0.0.1 cdn.mingmingtehui.com
+127.0.0.1 sjs.jcshouhui.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 etl.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -1606,6 +1610,8 @@
 127.0.0.1 er.dlhygj.com
 127.0.0.1 www.qupinhj.com
 127.0.0.1 m.gcaij.com
+127.0.0.1 e.uchij.com
+127.0.0.1 m.uchij.com
 127.0.0.1 www.4242jj.com
 127.0.0.1 app.shandjj.com
 127.0.0.1 videojj.com
@@ -1647,6 +1653,8 @@
 127.0.0.1 m.lfdydk.com
 127.0.0.1 e.mbiek.com
 127.0.0.1 m.mbiek.com
+127.0.0.1 e.imiek.com
+127.0.0.1 m.imiek.com
 127.0.0.1 www8.xitek.com
 127.0.0.1 rsas.szzek.com
 127.0.0.1 e.zmlfk.com
@@ -1655,6 +1663,7 @@
 127.0.0.1 m.mcaik.com
 127.0.0.1 dm.gbeik.com
 127.0.0.1 m.qhuik.com
+127.0.0.1 qm.iruik.com
 127.0.0.1 e.tiojk.com
 127.0.0.1 m.tiojk.com
 127.0.0.1 rosi.okkkk.com
@@ -2290,6 +2299,7 @@
 127.0.0.1 licenses.ashampoo.com
 127.0.0.1 ubm.fangtoo.com
 127.0.0.1 cpro.fangtoo.com
+127.0.0.1 www.93vitoo.com
 127.0.0.1 u.yiiwoo.com
 127.0.0.1 e.mqgpo.com
 127.0.0.1 m.mqgpo.com
@@ -2421,6 +2431,7 @@
 127.0.0.1 e.ckikq.com
 127.0.0.1 m.ckikq.com
 127.0.0.1 www.meitumq.com
+127.0.0.1 m.tbinq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 adsview2.qq.com
 127.0.0.1 dp3.qq.com
@@ -3543,6 +3554,7 @@
 127.0.0.1 h9p9.cn
 127.0.0.1 m.symaa.cn
 127.0.0.1 35baba.cn
+127.0.0.1 kn.ylrca.cn
 127.0.0.1 whn.star-media.cn
 127.0.0.1 union.star-media.cn
 127.0.0.1 api.iimedia.cn
@@ -3610,6 +3622,7 @@
 127.0.0.1 m.symac.cn
 127.0.0.1 alistatic.cn
 127.0.0.1 pp.sxjkc.cn
+127.0.0.1 cgzu.b0lc.cn
 127.0.0.1 w5sac788c1.360doc.cn
 127.0.0.1 pjogndc8ixoidna.360doc.cn
 127.0.0.1 p.mendoc.cn
@@ -3734,6 +3747,7 @@
 127.0.0.1 404.safedog.cn
 127.0.0.1 ad.funshion.org.cn
 127.0.0.1 m.lusrg.cn
+127.0.0.1 dueu.0fwg.cn
 127.0.0.1 13yg.cn
 127.0.0.1 app.9yyg.cn
 127.0.0.1 greenxfs.down.123ch.cn
@@ -3789,9 +3803,9 @@
 127.0.0.1 jdb.jiudingcapital.cn
 127.0.0.1 jbflil.cn
 127.0.0.1 un.52rkl.cn
+127.0.0.1 photo.headwell.cn
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 api.dreamfull.cn
-127.0.0.1 dpurl.cn
 127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 pad.zhywyl.cn
@@ -3834,7 +3848,6 @@
 127.0.0.1 sax9.sina.com.cn
 127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 slog.sina.com.cn
-127.0.0.1 woocall.sina.com.cn
 127.0.0.1 rm.sina.com.cn
 127.0.0.1 saxn.sina.com.cn
 127.0.0.1 count.video.sina.com.cn
@@ -4649,7 +4662,6 @@
 127.0.0.1 cdn.innity.net
 127.0.0.1 pxl.connexity.net
 127.0.0.1 p.ynjczy.net
-127.0.0.1 dc.tt
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 static.bepolite.eu
