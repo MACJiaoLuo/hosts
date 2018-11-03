@@ -70,7 +70,6 @@
 127.0.0.1 geo.yahoo.com
 127.0.0.1 udc.yahoo.com
 127.0.0.1 sg3.beap.gemini.yahoo.com
-127.0.0.1 geo.query.yahoo.com
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 radar.cedexis.com
 #tumblr
@@ -82,7 +81,6 @@
 
 #@      BT
 #btdb
-127.0.0.1 wsp.adskeeper.co.uk
 127.0.0.1 superfastcdn.com
 
 #@      NEW
@@ -155,6 +153,9 @@
 127.0.0.1 x7xirtzmot.com
 127.0.0.1 mtrcss.com
 127.0.0.1 rekovers.ru
+127.0.0.1 bodelen.com
+127.0.0.1 pushnice.com
+127.0.0.1 daibusee.com
 #hpjav.com
 127.0.0.1 static.exosrv.com
 127.0.0.1 ads.exosrv.com
