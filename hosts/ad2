@@ -4,8 +4,7 @@
 127.0.0.1 conf.international.baidu.com
 127.0.0.1 www.estrongs.com
 
-#@国内
-#隐私
+#baidu
 #127.0.0.1 api.map.baidu.com
 #127.0.0.1 ps.map.baidu.com
 #127.0.0.1 sv.map.baidu.com
@@ -13,20 +12,21 @@
 #127.0.0.1 newvector.map.baidu.com
 #127.0.0.1 ulog.imap.baidu.com
 #127.0.0.1 newloc.map.n.shifen.com
-#第三方 Telegram 客户端 - 币用 Android 版加挂的国产 SDK/API 一览表
-#阿里百川
+
+#ali baichuan
 127.0.0.1 baichuan.taobao.com
-#阿里云移动数据分析 
+#aliyun
 127.0.0.1 cn.aliyun.com
-#币用
+
+#biyong
 127.0.0.1 www.biyong.info
-#群多多
+#qun duo duo
 #127.0.0.1 stats.jpush.cn
 127.0.0.1 api.qun.sh
 
 #      uc
 #uc sync：browser.cloud.ucweb.com/sync
-#uc视频u2b清晰度：vps.ucweb.com
+#uc u2b Video definition：vps.ucweb.com
 127.0.0.1 cms.ucweb.com
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 logserver.insight.ucweb.com
@@ -50,10 +50,10 @@
 127.0.0.1 acs.m.taobao.com
 127.0.0.1 amdc.m.taobao.com
 #127.0.0.1 ucus.ucweb.com
-#重复127.0.0.1 vs12.bj.u3.ucweb.com
+#+127.0.0.1 vs12.bj.u3.ucweb.com
 127.0.0.1 navicms.ucweb.com
 127.0.0.1 gm.mmstat.com
-#重复127.0.0.1 log.mmstat.com
+#+127.0.0.1 log.mmstat.com
 127.0.0.1 broccoli.ucweb.com
 127.0.0.1 us.ynuf.aliapp.org
 127.0.0.1 acs.maribacaberita.com
@@ -102,9 +102,6 @@
 127.0.0.1 nav.files.bbci.co.uk
  
 
-# mobilism
-#127.0.0.1 cdn.firstimpression.io
-
 #@     pan
 #dropapk.com
 127.0.0.1 onclickmega.com
@@ -123,16 +120,24 @@
 127.0.0.1 onclicksuper.com
 127.0.0.1 velocecdn.com
 127.0.0.1 api.content-ad.net
-#误杀127.0.0.1 cdnjs.cloudflare.com
+#！127.0.0.1 cdnjs.cloudflare.com
 127.0.0.1 desgao1zt7irn.cloudfront.net
 127.0.0.1 d3al52d8cojds7.cloudfront.net
 #uploaded.net
 127.0.0.1 udarem.com
-#douploads.com #cloudyfiles.org #upload4earn.net
 
-# Facebook
-127.0.0.1 connect.facebook.net
-127.0.0.1 graph.facebook.com
+
+#@        video
+#iqiyi
+#AD cache：/data/data/com.qiyi.video/files/app/spgg/image/
+#127.0.0.1 static-s.iqiyi.com
+127.0.0.1 api.ts.feedback.71.am
+127.0.0.1 api.node4.ts.feedback.71.am
+#kuai ya
+127.0.0.1 i.kpzip.com
+127.0.0.1 download.glzip.cn
+127.0.0.1 bundle.kpzip.com
+127.0.0.1 tips.kpzip.com
 
 #@        pron
 #pronhub
@@ -185,36 +190,16 @@
 
 
 #mi
-#重复127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+#+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 
 #hw
-#骚扰拦截库：hw.dxsvr.com
 127.0.0.1 push1.hicloud.com
-
-#        video
-#iqiyi
-#启动广告缓存：/data/data/com.qiyi.video/files/app/spgg/image/
-#127.0.0.1 static-s.iqiyi.com
-127.0.0.1 api.ts.feedback.71.am
-127.0.0.1 api.node4.ts.feedback.71.am
-# 影视大全
-127.0.0.1 lf.snssdk.com
-#芒果TV
-#（网页版）
-#127.0.0.1 m2.da.mgtv.com
-#（app）
-#127.0.0.1 mobile2.da.mgtv.com
-#127.0.0.1 ip.taobao.com
-#pc
-127.0.0.1 web2.da.mgtv.com
-#kuai ya
-127.0.0.1 i.kpzip.com
-127.0.0.1 download.glzip.cn
-127.0.0.1 bundle.kpzip.com
-127.0.0.1 tips.kpzip.com
 
 #google
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 adservice.google.com.hk
 
+# Fb
+127.0.0.1 connect.facebook.net
+127.0.0.1 graph.facebook.com
 
