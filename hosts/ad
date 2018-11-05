@@ -1,4 +1,4 @@
-## version：2018-11-04 01:40:30
+## version：2018-11-06 01:45:21
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -1683,7 +1683,6 @@
 127.0.0.1 bttrack.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 t.dmtrck.com
-127.0.0.1 lf.snssdk.com
 127.0.0.1 temai.snssdk.com
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 e.lfdydk.com
@@ -2522,11 +2521,6 @@
 127.0.0.1 adsclick.qq.com
 127.0.0.1 qqshow2-item.qq.com
 127.0.0.1 setting.snswin.qq.com
-127.0.0.1 eventlog.beacon.qq.com
-127.0.0.1 aeventlog.beacon.qq.com
-127.0.0.1 jrlt.beacon.qq.com
-127.0.0.1 strategy.beacon.qq.com
-127.0.0.1 astrategy.beacon.qq.com
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 tj.video.qq.com
