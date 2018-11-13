@@ -1,4 +1,4 @@
-## version：2018-11-08 22:34:44
+## version：2018-11-14 03:18:35
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -416,6 +416,7 @@
 127.0.0.1 8866786.com
 127.0.0.1 p2.hyz86.com
 127.0.0.1 vip.hyz86.com
+127.0.0.1 s.hyz86.com
 127.0.0.1 www.8269996.com
 127.0.0.1 yyb.pc6.com
 127.0.0.1 uri6.com
@@ -851,6 +852,8 @@
 127.0.0.1 s2.dnaxddnc.com
 127.0.0.1 s8.dnaxddnc.com
 127.0.0.1 a.ltdnc.com
+127.0.0.1 e.hcenc.com
+127.0.0.1 m.hcenc.com
 127.0.0.1 crm-eve.b2b.alibaba-inc.com
 127.0.0.1 eclick.360doc.com
 127.0.0.1 u.qijipc.com
@@ -1374,6 +1377,7 @@
 127.0.0.1 m.ishangtong.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 m.gbaog.com
+127.0.0.1 m.hbaog.com
 127.0.0.1 e.acaog.com
 127.0.0.1 e.gcaog.com
 127.0.0.1 m.gcaog.com
@@ -1595,6 +1599,7 @@
 127.0.0.1 api.xk.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 c.lucktui.com
+127.0.0.1 www.kiaokuayoutui.com
 127.0.0.1 sp.yixui.com
 127.0.0.1 js.yixui.com
 127.0.0.1 e.hyzui.com
@@ -1648,6 +1653,7 @@
 127.0.0.1 pc.5151gj.com
 127.0.0.1 er.dlhygj.com
 127.0.0.1 www.qupinhj.com
+127.0.0.1 m.dbaij.com
 127.0.0.1 e.dcaij.com
 127.0.0.1 m.gcaij.com
 127.0.0.1 e.abeij.com
@@ -1905,6 +1911,9 @@
 127.0.0.1 apns.ios.ijinshan.com
 127.0.0.1 js.stat.ijinshan.com
 127.0.0.1 cdnimg.liehu.ijinshan.com
+127.0.0.1 fpbb.aizhan.com
+127.0.0.1 dm.aizhan.com
+127.0.0.1 dmm.aizhan.com
 127.0.0.1 zhuanshenghuo1.kuaizhan.com
 127.0.0.1 hdjhsudhe.kuaizhan.com
 127.0.0.1 m.beidian.com
@@ -2634,6 +2643,7 @@
 127.0.0.1 ads.betfair.com
 127.0.0.1 ffre.ffrepair.com
 127.0.0.1 ad.hiiir.com
+127.0.0.1 xvyljkr.com
 127.0.0.1 ls.srvcs.tumblr.com
 127.0.0.1 e.coenr.com
 127.0.0.1 m.coenr.com
@@ -2660,6 +2670,7 @@
 127.0.0.1 m.duias.com
 127.0.0.1 m.cuoas.com
 127.0.0.1 e.huoas.com
+127.0.0.1 m.hguas.com
 127.0.0.1 m.couas.com
 127.0.0.1 m.fouas.com
 127.0.0.1 upd.faronicslabs.com
@@ -2718,6 +2729,8 @@
 127.0.0.1 aries.mzres.com
 127.0.0.1 e.ojues.com
 127.0.0.1 m.ojues.com
+127.0.0.1 e.wlues.com
+127.0.0.1 m.wlues.com
 127.0.0.1 nsy.hnzyfs.com
 127.0.0.1 wxtz.houmags.com
 127.0.0.1 www.estrongs.com
@@ -3389,7 +3402,6 @@
 127.0.0.1 www.588yw.com
 127.0.0.1 baidu.cybcyw.com
 127.0.0.1 push.5z5zw.com
-127.0.0.1 m.fpzw.com
 127.0.0.1 www.mpzw.com
 127.0.0.1 m.maopuzw.com
 127.0.0.1 js412.yqjxzw.com
@@ -3633,6 +3645,7 @@
 127.0.0.1 img.12584.cn
 127.0.0.1 htvh.vf5yb4.cn
 127.0.0.1 www.s3d4.cn
+127.0.0.1 wncs.7ez4.cn
 127.0.0.1 trace.m1905.cn
 127.0.0.1 vodlog.m1905.cn
 127.0.0.1 mlog.m1905.cn
@@ -3756,6 +3769,7 @@
 127.0.0.1 m.ienkdaged.cn
 127.0.0.1 ms.awqsaged.cn
 127.0.0.1 m.assigned.cn
+127.0.0.1 alifixed.cn
 127.0.0.1 game.baichuanhd.cn
 127.0.0.1 eyjs.b7nkd.cn
 127.0.0.1 photo.dhford.cn
@@ -4852,6 +4866,7 @@
 127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 msg2.video.ptqy.gitv.tv
 127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 gotoniubiurl.pw
 127.0.0.1 cilidaquan.pw
 127.0.0.1 ads.dvworld.com.tw
 127.0.0.1 ad.pchome.com.tw
