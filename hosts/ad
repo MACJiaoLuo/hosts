@@ -1,4 +1,4 @@
-## version：2018-11-14 03:18:35
+## version：2018-11-15 22:40:51
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -224,6 +224,7 @@
 127.0.0.1 m.guanren11.com
 127.0.0.1 ssh.lifu11.com
 127.0.0.1 q.ox11.com
+127.0.0.1 m.dsgy521.com
 127.0.0.1 qq.8368661.com
 127.0.0.1 e.91.com
 127.0.0.1 sqtpks3.1391.com
@@ -926,7 +927,6 @@
 127.0.0.1 www.souid.com
 127.0.0.1 c-nfa.jd.com
 127.0.0.1 gia.jd.com
-127.0.0.1 union-click.jd.com
 127.0.0.1 jrclick.jd.com
 127.0.0.1 stat.m.jd.com
 127.0.0.1 cm.jd.com
@@ -934,7 +934,6 @@
 127.0.0.1 click.jr.jd.com
 127.0.0.1 du.jd.com
 127.0.0.1 x.jd.com
-127.0.0.1 ccc-x.jd.com
 127.0.0.1 img-x.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 u-x.jd.com
@@ -1431,6 +1430,7 @@
 127.0.0.1 an.wikigifth.com
 127.0.0.1 py.wikigifth.com
 127.0.0.1 e.sanitwealth.com
+127.0.0.1 www.shkywh.com
 127.0.0.1 cycy.kxrxh.com
 127.0.0.1 xin.ygqczh.com
 127.0.0.1 www.xiacai.com
@@ -1677,6 +1677,8 @@
 127.0.0.1 kob.adxkj.com
 127.0.0.1 js.adxkj.com
 127.0.0.1 kn.qhdfxkj.com
+127.0.0.1 e.gtuoj.com
+127.0.0.1 m.gtuoj.com
 127.0.0.1 30ampj.com
 127.0.0.1 md.1drj.com
 127.0.0.1 xs.1drj.com
@@ -2701,6 +2703,7 @@
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 img.88ads.com
 127.0.0.1 hipersushiads.com
+127.0.0.1 u.qijads.com
 127.0.0.1 um2.eqads.com
 127.0.0.1 disqusads.com
 127.0.0.1 track.eyeviewads.com
@@ -3297,6 +3300,7 @@
 127.0.0.1 m.diogv.com
 127.0.0.1 qm.rcaiv.com
 127.0.0.1 pm.sdaiv.com
+127.0.0.1 m.wbanv.com
 127.0.0.1 a.epinv.com
 127.0.0.1 b.epinv.com
 127.0.0.1 go.onclasrv.com
@@ -3425,6 +3429,8 @@
 127.0.0.1 e.fbaix.com
 127.0.0.1 m.fbaix.com
 127.0.0.1 m.bdeix.com
+127.0.0.1 www.kngcjx.com
+127.0.0.1 www.whxhhjx.com
 127.0.0.1 zxr.fzxrjx.com
 127.0.0.1 www.86kx.com
 127.0.0.1 www.appodealx.com
@@ -3606,6 +3612,7 @@
 127.0.0.1 e.jiirz.com
 127.0.0.1 m.jiirz.com
 127.0.0.1 li.anyysz.com
+127.0.0.1 xzc.wxgctz.com
 127.0.0.1 zjjgtz.com
 127.0.0.1 www.zjjgtz.com
 127.0.0.1 e.irauz.com
@@ -3638,6 +3645,7 @@
 127.0.0.1 fd.qchannel03.cn
 127.0.0.1 www.qchannel03.cn
 127.0.0.1 xiaoshuo.kp53.cn
+127.0.0.1 xffg.1x26q3.cn
 127.0.0.1 rchs.1mb034.cn
 127.0.0.1 www.2144.cn
 127.0.0.1 health1.12584.cn
@@ -3682,6 +3690,7 @@
 127.0.0.1 api.iimedia.cn
 127.0.0.1 engine.tuia.cn
 127.0.0.1 yun.tuia.cn
+127.0.0.1 xingmengxia.cn
 127.0.0.1 js.lieqitianxia.cn
 127.0.0.1 s.caduka.cn
 127.0.0.1 a.alimama.cn
@@ -3874,6 +3883,7 @@
 127.0.0.1 dueu.0fwg.cn
 127.0.0.1 13yg.cn
 127.0.0.1 app.9yyg.cn
+127.0.0.1 vsqf.nal5h.cn
 127.0.0.1 greenxfs.down.123ch.cn
 127.0.0.1 click.linktech.cn
 127.0.0.1 marketing.etouch.cn
@@ -3933,6 +3943,7 @@
 127.0.0.1 photo.headwell.cn
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 api.dreamfull.cn
+127.0.0.1 img.sxcol.cn
 127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 pad.zhywyl.cn
@@ -4256,6 +4267,7 @@
 127.0.0.1 js.dkqapp.cn
 127.0.0.1 a1.lmaq.cn
 127.0.0.1 ddpxhq.cn
+127.0.0.1 m.ysgsq.cn
 127.0.0.1 apk.gelinboer.cn
 127.0.0.1 imgad.thepaper.cn
 127.0.0.1 adpai.thepaper.cn
@@ -4265,6 +4277,7 @@
 127.0.0.1 ggdata1.cnr.cn
 127.0.0.1 d1.cnr.cn
 127.0.0.1 adsame1.cnr.cn
+127.0.0.1 pwbs.l9c4s.cn
 127.0.0.1 s.georgias.cn
 127.0.0.1 adx.dlads.cn
 127.0.0.1 m.zenffs.cn
@@ -4360,6 +4373,7 @@
 127.0.0.1 g.mnw.cn
 127.0.0.1 stats.magicwindow.cn
 127.0.0.1 g.hsw.cn
+127.0.0.1 photo.zgncpjyw.cn
 127.0.0.1 js.wo-x.cn
 127.0.0.1 a.mjlnbx.cn
 127.0.0.1 1.chcx.cn
@@ -4367,6 +4381,7 @@
 127.0.0.1 photo.welldex.cn
 127.0.0.1 c.wechat.jx.cn
 127.0.0.1 www.xtwjx.cn
+127.0.0.1 m.czxjx.cn
 127.0.0.1 hhqda.pop.t5yx.cn
 127.0.0.1 f1.p0y.cn
 127.0.0.1 f2.p0y.cn
@@ -4495,7 +4510,6 @@
 127.0.0.1 m.28487.net
 127.0.0.1 c.vip97.net
 127.0.0.1 m.laigame7.net
-127.0.0.1 msnportal.112.2o7.net
 127.0.0.1 events-api.outfit7.net
 127.0.0.1 jjb168.net
 127.0.0.1 gmota.g188.net
@@ -4678,6 +4692,7 @@
 127.0.0.1 m.24haitao.net
 127.0.0.1 down.laomaotao.net
 127.0.0.1 www.laomaotao.net
+127.0.0.1 aff.simibo.net
 127.0.0.1 518.sdinfo.net
 127.0.0.1 yoo.yiiyoo.net
 127.0.0.1 rad.reporo.net
@@ -4719,7 +4734,6 @@
 127.0.0.1 b.9dreams.net
 127.0.0.1 ag.nukefans.net
 127.0.0.1 ig.nukefans.net
-127.0.0.1 statsfe2.update.microsoft.com.akadns.net
 127.0.0.1 v.smtcdns.net
 127.0.0.1 g.ousns.net
 127.0.0.1 t.adcrops.net
@@ -4808,7 +4822,6 @@
 127.0.0.1 cdn.innity.net
 127.0.0.1 pxl.connexity.net
 127.0.0.1 p.ynjczy.net
-127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 static.bepolite.eu
 127.0.0.1 serving.bepolite.eu
