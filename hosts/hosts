@@ -1,4 +1,4 @@
-## version：2018-11-20 01:53:58
+## version：2018-11-30 06:00:29
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -712,35 +712,40 @@
 127.0.0.1 digg.analytics.live.com
 127.0.0.1 ms.analytics.live.com
 127.0.0.1 watson.live.com
-127.0.0.1 bingads.microsoft.com
-127.0.0.1 choice.microsoft.com
-127.0.0.1 corp.sts.microsoft.com
-127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
-127.0.0.1 crl.microsoft.com
-127.0.0.1 df.telemetry.microsoft.com
 127.0.0.1 diagnostics.support.microsoft.com
-127.0.0.1 i1.services.social.microsoft.com
-127.0.0.1 oca.telemetry.microsoft.com
-127.0.0.1 redir.metaservices.microsoft.com
+127.0.0.1 survey.watson.microsoft.com
+127.0.0.1 watson.microsoft.com
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 www.bingads.microsoft.com
+127.0.0.1 df.telemetry.microsoft.com
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 services.wes.df.telemetry.microsoft.com
-127.0.0.1 settings-sandbox.data.microsoft.com
 127.0.0.1 sqm.df.telemetry.microsoft.com
 127.0.0.1 sqm.telemetry.microsoft.com
-127.0.0.1 statsfe1.ws.microsoft.com
-127.0.0.1 statsfe2.ws.microsoft.com
-127.0.0.1 survey.watson.microsoft.com
 127.0.0.1 telecommand.telemetry.microsoft.com
 127.0.0.1 telemetry.microsoft.com
 127.0.0.1 telemetry.urs.microsoft.com
-127.0.0.1 vortex-sandbox.data.microsoft.com
-127.0.0.1 vortex-win.data.microsoft.com
-127.0.0.1 vortex.data.microsoft.com
-127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.ppe.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 wes.df.telemetry.microsoft.com
-127.0.0.1 www.bingads.microsoft.com
+127.0.0.1 asimov-win.settings.data.microsoft.com.akadns.net
+127.0.0.1 db5-eap.settings-win.data.microsoft.com.akadns.net
+127.0.0.1 db5.settings-win.data.microsoft.com.akadns.net
+127.0.0.1 db5.vortex.data.microsoft.com.akadns.net
+127.0.0.1 geo.settings-win.data.microsoft.com.akadns.net
+127.0.0.1 geo.vortex.data.microsoft.com.akadns.net
+127.0.0.1 v10-win.vortex.data.microsft.com.akadns.net
+127.0.0.1 alpha.telemetry.microsft.com
+127.0.0.1 eu.vortex-win.data.microsft.com
+127.0.0.1 oca.telemetry.microsft.com
+127.0.0.1 us.vortex-win.data.microsft.com
+127.0.0.1 v10.vortex-win.data.microsft.com
+127.0.0.1 alpha.telemetry.microsoft.com
+127.0.0.1 eu.vortex-win.data.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 us.vortex-win.data.microsoft.com
+127.0.0.1 vortex-win-sandbox.data.microsoft.com
 127.0.0.1 a.global.msads.net
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads2.msads.net
@@ -861,7 +866,6 @@
 127.0.0.1 p2.l.qq.com
 127.0.0.1 p3.l.qq.com
 127.0.0.1 t.l.qq.com
-127.0.0.1 vd.l.qq.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
@@ -869,7 +873,6 @@
 127.0.0.1 count.video.sina.com.cn
 127.0.0.1 counter.sina.com.cn
 127.0.0.1 cre.mix.sina.com.cn
-127.0.0.1 current.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d00.sina.com.cn
 127.0.0.1 d1.sina.com.cn
@@ -1119,7 +1122,6 @@
 127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 s.youzhuanhua.com
-127.0.0.1 mobile.yangkeduo.com
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
 127.0.0.1 m.hao123.com
@@ -2094,9 +2096,19 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
+127.0.0.1 e.tchep.com
+127.0.0.1 e.xdunv.com
+127.0.0.1 m.iangp.com
+127.0.0.1 m.sfanf.com
+127.0.0.1 m.tchep.com
+127.0.0.1 m.whsjg.cn
+127.0.0.1 m.xdunv.com
+127.0.0.1 sypd.w13qh.cn
+127.0.0.1 y.unilz588.com
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
 127.0.0.1 x.dami66.cn
+127.0.0.1 amae.zjcapital.cn
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -3087,6 +3099,7 @@
 127.0.0.1 cpv.czpush.com
 127.0.0.1 cs.twcczhu.com
 127.0.0.1 ct.210189.com
+127.0.0.1 ctki.hs1s1.cn
 127.0.0.1 cycy.kxrxh.com
 127.0.0.1 cz.ifeng0.com
 127.0.0.1 czf.cchfjz.com
@@ -3170,6 +3183,7 @@
 127.0.0.1 e.acaox.com
 127.0.0.1 e.admin60.com
 127.0.0.1 e.aiyyu.com
+127.0.0.1 e.ajiez.com
 127.0.0.1 e.anmeilai.net
 127.0.0.1 e.apxyz.com
 127.0.0.1 e.bbvjs.com
@@ -3216,6 +3230,7 @@
 127.0.0.1 e.gbieg.com
 127.0.0.1 e.gcaog.com
 127.0.0.1 e.gglay.com
+127.0.0.1 e.gjiak.com
 127.0.0.1 e.gtuoj.com
 127.0.0.1 e.gxjfh.com
 127.0.0.1 e.gxkyl.com
@@ -3223,6 +3238,7 @@
 127.0.0.1 e.hcenc.com
 127.0.0.1 e.hgrqp.com
 127.0.0.1 e.hissq.com
+127.0.0.1 e.hjiec.com
 127.0.0.1 e.hjryl.com
 127.0.0.1 e.hk7799.net
 127.0.0.1 e.hkmqp.com
@@ -3313,8 +3329,10 @@
 127.0.0.1 e.uzhaj.com
 127.0.0.1 e.vaxyz.com
 127.0.0.1 e.vbaiu.com
+127.0.0.1 e.vgaom.com
 127.0.0.1 e.vouky.com
 127.0.0.1 e.vvocm.com
+127.0.0.1 e.wbies.com
 127.0.0.1 e.wcjup.com
 127.0.0.1 e.weixingshexiangji.net
 127.0.0.1 e.wikigifth.com
@@ -3322,6 +3340,7 @@
 127.0.0.1 e.wlues.com
 127.0.0.1 e.wonwg.com
 127.0.0.1 e.wsxxu.com
+127.0.0.1 e.xbaiv.com
 127.0.0.1 e.xdkje.com
 127.0.0.1 e.xeihy.com
 127.0.0.1 e.xiangchim0.com
@@ -3391,6 +3410,7 @@
 127.0.0.1 fpbjiansuo.mn586.com
 127.0.0.1 fpdownload.macromedia.com
 127.0.0.1 fsjsp.com
+127.0.0.1 fyal.e9emh.cn
 127.0.0.1 fzz.cloud.1234507.com
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.ad8.cc
@@ -3539,6 +3559,7 @@
 127.0.0.1 jb.mnkan.com
 127.0.0.1 jbflil.cn
 127.0.0.1 jc.anhuilitian.net
+127.0.0.1 jc.shenglonghg.net
 127.0.0.1 jc.xuqinqi.cn
 127.0.0.1 jd.c-ptsp.com.cn
 127.0.0.1 jdg.bjygfd.com
@@ -3621,6 +3642,7 @@
 127.0.0.1 jyc.njxczy.com
 127.0.0.1 jyz.fjtzjy.com
 127.0.0.1 k.85wa.cn
+127.0.0.1 k.bnuni.com
 127.0.0.1 k.ctsywy.com
 127.0.0.1 kas.keydot.net
 127.0.0.1 kddtri.cn
@@ -3695,6 +3717,7 @@
 127.0.0.1 m.adaog.com
 127.0.0.1 m.afoux.com
 127.0.0.1 m.aiyyu.com
+127.0.0.1 m.ajiez.com
 127.0.0.1 m.ajiuc.com
 127.0.0.1 m.anmeilai.net
 127.0.0.1 m.anzhuotan.com
@@ -3718,6 +3741,7 @@
 127.0.0.1 m.cbeif.com
 127.0.0.1 m.ccunf.com
 127.0.0.1 m.cdfzcz.com
+127.0.0.1 m.cdouj.com
 127.0.0.1 m.cenrs.com
 127.0.0.1 m.chenhuia.com
 127.0.0.1 m.chexiw.com
@@ -3747,6 +3771,7 @@
 127.0.0.1 m.duias.com
 127.0.0.1 m.dxmci.com
 127.0.0.1 m.edo5.com
+127.0.0.1 m.edysn.cn
 127.0.0.1 m.efeiy.com
 127.0.0.1 m.ehxyz.com
 127.0.0.1 m.emgwq.com
@@ -3777,6 +3802,7 @@
 127.0.0.1 m.gcaog.com
 127.0.0.1 m.gcheg.com
 127.0.0.1 m.gglay.com
+127.0.0.1 m.gjiak.com
 127.0.0.1 m.gtiou.com
 127.0.0.1 m.gtnde.com
 127.0.0.1 m.gtuoj.com
@@ -3791,6 +3817,7 @@
 127.0.0.1 m.gxkyl.com
 127.0.0.1 m.haowj.com.cn
 127.0.0.1 m.harbinbaojia.net
+127.0.0.1 m.hbans.com
 127.0.0.1 m.hbaog.com
 127.0.0.1 m.hcaig.com
 127.0.0.1 m.hcenc.com
@@ -3800,6 +3827,7 @@
 127.0.0.1 m.hguas.com
 127.0.0.1 m.hhllyt.com
 127.0.0.1 m.hissq.com
+127.0.0.1 m.hjiec.com
 127.0.0.1 m.hk7799.net
 127.0.0.1 m.hkmqp.com
 127.0.0.1 m.hogyp.com
@@ -3808,6 +3836,7 @@
 127.0.0.1 m.huanyuexpress.com
 127.0.0.1 m.huyulh.com
 127.0.0.1 m.hyzui.com
+127.0.0.1 m.ibinp.com
 127.0.0.1 m.icyrd.com
 127.0.0.1 m.ienkdaged.cn
 127.0.0.1 m.ienkdago.cn
@@ -3849,6 +3878,7 @@
 127.0.0.1 m.lyjz001.com
 127.0.0.1 m.lzida.com
 127.0.0.1 m.maopuzw.com
+127.0.0.1 m.mbaik.com
 127.0.0.1 m.mbiek.com
 127.0.0.1 m.mcaik.com
 127.0.0.1 m.mgsue.cn
@@ -3882,6 +3912,7 @@
 127.0.0.1 m.opqsr.com
 127.0.0.1 m.oyrim.com
 127.0.0.1 m.pbino.com
+127.0.0.1 m.pcaoo.com
 127.0.0.1 m.phonthing.com
 127.0.0.1 m.picbr.com
 127.0.0.1 m.pieaa.com
@@ -3916,6 +3947,7 @@
 127.0.0.1 m.symag.cn
 127.0.0.1 m.symaj.cn
 127.0.0.1 m.szqifu.com
+127.0.0.1 m.tbaiq.com
 127.0.0.1 m.tbenq.com
 127.0.0.1 m.tbieq.com
 127.0.0.1 m.tbinq.com
@@ -3925,6 +3957,7 @@
 127.0.0.1 m.tiojk.com
 127.0.0.1 m.tuopp.com
 127.0.0.1 m.twldmx.com
+127.0.0.1 m.ubaii.com
 127.0.0.1 m.ucaii.com
 127.0.0.1 m.uchij.com
 127.0.0.1 m.uissm.com
@@ -3933,9 +3966,13 @@
 127.0.0.1 m.vbaou.com
 127.0.0.1 m.vbieu.com
 127.0.0.1 m.vbinu.com
+127.0.0.1 m.vgaom.com
 127.0.0.1 m.vichc.com
+127.0.0.1 m.vjuer.com
 127.0.0.1 m.vouky.com
+127.0.0.1 m.wbaiz.com
 127.0.0.1 m.wbanv.com
+127.0.0.1 m.wbiev.com
 127.0.0.1 m.wcjup.com
 127.0.0.1 m.weixingshexiangji.net
 127.0.0.1 m.wervp.com
@@ -3950,6 +3987,7 @@
 127.0.0.1 m.wuqutu.com
 127.0.0.1 m.wxhh678.com
 127.0.0.1 m.wywna.cn
+127.0.0.1 m.xbaiv.com
 127.0.0.1 m.xdkje.com
 127.0.0.1 m.xeihy.com
 127.0.0.1 m.xhaiu.com
@@ -3965,6 +4003,7 @@
 127.0.0.1 m.xxkio.com
 127.0.0.1 m.yalayi.com
 127.0.0.1 m.yangjingbang.net
+127.0.0.1 m.ybaih.com
 127.0.0.1 m.ybaoh.com
 127.0.0.1 m.ybeih.com
 127.0.0.1 m.yguap.com
@@ -4009,6 +4048,7 @@
 127.0.0.1 mob.huimee.net
 127.0.0.1 moons.66bhy.com
 127.0.0.1 moren-1252794300.file.myqcloud.com
+127.0.0.1 motoe.plokr.com
 127.0.0.1 movie.miaiche.cn
 127.0.0.1 mps.weekslw.com
 127.0.0.1 ms.awqsaged.cn
@@ -4087,6 +4127,7 @@
 127.0.0.1 photo.headwell.cn
 127.0.0.1 photo.jbbath.cn
 127.0.0.1 photo.lyghjzs.cn
+127.0.0.1 photo.rdguj.cn
 127.0.0.1 photo.shyexiang.cn
 127.0.0.1 photo.welldex.cn
 127.0.0.1 photo.xunhuaji.cn
@@ -4134,6 +4175,7 @@
 127.0.0.1 qp.yunanfuwuqi.com
 127.0.0.1 qq.8368661.com
 127.0.0.1 qq.guansenff.cn
+127.0.0.1 qtpb.12jf3.cn
 127.0.0.1 qweqwe.mctvhp.cn
 127.0.0.1 r.5207470.com
 127.0.0.1 r.myadx.net
@@ -4364,6 +4406,7 @@
 127.0.0.1 urh.tylll.com
 127.0.0.1 uri6.com
 127.0.0.1 url.222bz.com
+127.0.0.1 usao.77gog.com
 127.0.0.1 user.tiankongzudui.com
 127.0.0.1 utp.ucweb.com
 127.0.0.1 uu.85655095.com
@@ -4466,6 +4509,7 @@
 127.0.0.1 www.7540.com
 127.0.0.1 www.8066hg.com
 127.0.0.1 www.8269996.com
+127.0.0.1 www.83692.com
 127.0.0.1 www.86kx.com
 127.0.0.1 www.888zr022.com
 127.0.0.1 www.88cncc.com
@@ -4515,6 +4559,7 @@
 127.0.0.1 www.gouzhibao.cn
 127.0.0.1 www.gt4ec.net
 127.0.0.1 www.gxdhgb.com
+127.0.0.1 www.gzhctryy.com
 127.0.0.1 www.hblinwei.com
 127.0.0.1 www.hdhkwl.com
 127.0.0.1 www.higame123.com
@@ -4571,6 +4616,7 @@
 127.0.0.1 www.onewhee.com
 127.0.0.1 www.ooniu.com
 127.0.0.1 www.pasco.cc
+127.0.0.1 www.pi920.com
 127.0.0.1 www.pintour.com
 127.0.0.1 www.pj550077.com
 127.0.0.1 www.pjbjzf.com
