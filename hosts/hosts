@@ -1,4 +1,4 @@
-## version：2018-12-01 04:58:38
+## version：2018-12-11 01:58:11
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -123,7 +123,6 @@
 127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
-127.0.0.1 gma.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 a.alimama.cn
 127.0.0.1 afpeng.alimama.com
@@ -1138,6 +1137,8 @@
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
 127.0.0.1 www.taoev.com
+127.0.0.1 wodeai.cn
+127.0.0.1 www.goubt.top
 127.0.0.1 yhd.com
 127.0.0.1 www.yhd.com
 127.0.0.1 www.hisense.cn
@@ -2096,15 +2097,23 @@
 127.0.0.1 business.inveno.com
 127.0.0.1 zuimeitianqi.inveno.com
 127.0.0.1 update.coolyun.com
-127.0.0.1 e.tchep.com
-127.0.0.1 e.xdunv.com
-127.0.0.1 m.iangp.com
-127.0.0.1 m.sfanf.com
-127.0.0.1 m.tchep.com
-127.0.0.1 m.whsjg.cn
-127.0.0.1 m.xdunv.com
-127.0.0.1 sypd.w13qh.cn
-127.0.0.1 y.unilz588.com
+127.0.0.1 e.acaoz.com
+127.0.0.1 e.aduiz.com
+127.0.0.1 e.lbaoj.com
+127.0.0.1 m.acaoz.com
+127.0.0.1 m.dbeij.com
+127.0.0.1 m.lbaoj.com
+127.0.0.1 m.lxind.cn
+127.0.0.1 nuloe.alksdh.com
+127.0.0.1 opsm.qflwh.cn
+127.0.0.1 plyut.dldsrs.com
+127.0.0.1 sdn.scset.com.cn
+127.0.0.1 shang.baful.net
+127.0.0.1 sourcescdn.xiaobingw.cn
+127.0.0.1 v.9y88.com
+127.0.0.1 uzi66.jozee.cn
+127.0.0.1 engine.tuicoco.com
+127.0.0.1 www.applequan.com
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
 127.0.0.1 x.dami66.cn
@@ -3107,6 +3116,7 @@
 127.0.0.1 d.admx.baixing.com
 127.0.0.1 d.agkn.com
 127.0.0.1 d.beigedi.com
+127.0.0.1 d.biboi.cn
 127.0.0.1 d.danangmo.cn
 127.0.0.1 d.jjyx.com
 127.0.0.1 d.rexuebi.com
@@ -3219,8 +3229,10 @@
 127.0.0.1 e.emgwq.com
 127.0.0.1 e.enjuk.com
 127.0.0.1 e.enjuw.com
+127.0.0.1 e.eshuy.com
 127.0.0.1 e.fbaix.com
 127.0.0.1 e.fbaot.com
+127.0.0.1 e.ffanq.com
 127.0.0.1 e.fimky.com
 127.0.0.1 e.fkkse.com
 127.0.0.1 e.fkogs.com
@@ -3319,6 +3331,7 @@
 127.0.0.1 e.suehy.com
 127.0.0.1 e.szqifu.com
 127.0.0.1 e.t71q.com
+127.0.0.1 e.tchep.com
 127.0.0.1 e.tdtsd.com
 127.0.0.1 e.tiantianedu.net
 127.0.0.1 e.tick0.com
@@ -3342,6 +3355,7 @@
 127.0.0.1 e.wsxxu.com
 127.0.0.1 e.xbaiv.com
 127.0.0.1 e.xdkje.com
+127.0.0.1 e.xdunv.com
 127.0.0.1 e.xeihy.com
 127.0.0.1 e.xiangchim0.com
 127.0.0.1 e.xikdn.com
@@ -3541,6 +3555,7 @@
 127.0.0.1 j.biquge520.cc
 127.0.0.1 j.chaorenjiaoshi.com
 127.0.0.1 j.dipowang.cn
+127.0.0.1 j.faacliltate.com
 127.0.0.1 j.fd7c.com
 127.0.0.1 j.hbwcl.com
 127.0.0.1 j.jimeilm.com
@@ -3777,6 +3792,7 @@
 127.0.0.1 m.emgwq.com
 127.0.0.1 m.enjuk.com
 127.0.0.1 m.enjuw.com
+127.0.0.1 m.eshuy.com
 127.0.0.1 m.fbaix.com
 127.0.0.1 m.fbaot.com
 127.0.0.1 m.fcaot.com
@@ -3785,6 +3801,7 @@
 127.0.0.1 m.feirs.com
 127.0.0.1 m.fengwanwl.com
 127.0.0.1 m.fenrs.com
+127.0.0.1 m.ffanq.com
 127.0.0.1 m.fhxsw.org
 127.0.0.1 m.fimky.com
 127.0.0.1 m.fkkse.com
@@ -3828,6 +3845,7 @@
 127.0.0.1 m.hhllyt.com
 127.0.0.1 m.hissq.com
 127.0.0.1 m.hjiec.com
+127.0.0.1 m.hjues.com
 127.0.0.1 m.hk7799.net
 127.0.0.1 m.hkmqp.com
 127.0.0.1 m.hogyp.com
@@ -3836,6 +3854,7 @@
 127.0.0.1 m.huanyuexpress.com
 127.0.0.1 m.huyulh.com
 127.0.0.1 m.hyzui.com
+127.0.0.1 m.iangp.com
 127.0.0.1 m.ibinp.com
 127.0.0.1 m.icyrd.com
 127.0.0.1 m.ienkdaged.cn
@@ -3872,6 +3891,7 @@
 127.0.0.1 m.lancedu.com
 127.0.0.1 m.laojiayoufang.com
 127.0.0.1 m.laoqu123.com
+127.0.0.1 m.lbaij.com
 127.0.0.1 m.lchar.com
 127.0.0.1 m.lfdydk.com
 127.0.0.1 m.lusrg.cn
@@ -3935,6 +3955,7 @@
 127.0.0.1 m.sbief.com
 127.0.0.1 m.sbinx.com
 127.0.0.1 m.scouc.com
+127.0.0.1 m.sfanf.com
 127.0.0.1 m.shenyunkeji.com
 127.0.0.1 m.sjaidu.com
 127.0.0.1 m.sjuqc.com
@@ -3951,6 +3972,7 @@
 127.0.0.1 m.tbenq.com
 127.0.0.1 m.tbieq.com
 127.0.0.1 m.tbinq.com
+127.0.0.1 m.tchep.com
 127.0.0.1 m.tiantianedu.net
 127.0.0.1 m.tiaopimiao.net
 127.0.0.1 m.tick0.com
@@ -3977,6 +3999,7 @@
 127.0.0.1 m.weixingshexiangji.net
 127.0.0.1 m.wervp.com
 127.0.0.1 m.wgewj.cn
+127.0.0.1 m.whsjg.cn
 127.0.0.1 m.wikigifth.com
 127.0.0.1 m.wkjhd.com
 127.0.0.1 m.wlues.com
@@ -3989,6 +4012,7 @@
 127.0.0.1 m.wywna.cn
 127.0.0.1 m.xbaiv.com
 127.0.0.1 m.xdkje.com
+127.0.0.1 m.xdunv.com
 127.0.0.1 m.xeihy.com
 127.0.0.1 m.xhaiu.com
 127.0.0.1 m.xiangchim0.com
@@ -4020,6 +4044,7 @@
 127.0.0.1 m.yzjlsb.com
 127.0.0.1 m.zabxb.com
 127.0.0.1 m.zaoss.com
+127.0.0.1 m.zbied.com
 127.0.0.1 m.zeiaa.com
 127.0.0.1 m.zenffs.cn
 127.0.0.1 m.zhuyuanp.club
@@ -4328,6 +4353,7 @@
 127.0.0.1 sy.sxjxhg.com
 127.0.0.1 sycnzz.17tanwan.com
 127.0.0.1 symaj.cn
+127.0.0.1 sypd.w13qh.cn
 127.0.0.1 szb.aiyole.com
 127.0.0.1 t.2d-c.cn
 127.0.0.1 t.3apf.com
@@ -4738,11 +4764,13 @@
 127.0.0.1 y.hk9600.com
 127.0.0.1 y.hzht666.com
 127.0.0.1 y.shuoshuocm.com
+127.0.0.1 y.unilz588.com
 127.0.0.1 y0.cn
 127.0.0.1 ycy.hyjyjc.com
 127.0.0.1 yess.imneinei.com
 127.0.0.1 yfcode.m.gxwztv.com
 127.0.0.1 yfxpcode.m.gxwztv.com
+127.0.0.1 yihu.s06th.cn
 127.0.0.1 ym.ychap.com
 127.0.0.1 yn.001fzc.com
 127.0.0.1 yoo.yiiyoo.net
@@ -5170,6 +5198,12 @@
 127.0.0.1 z.clickvip.shop
 127.0.0.1 dd.wx16999.com
 127.0.0.1 weixin.renrenying.com
+127.0.0.1 jump.ishop789.com
+127.0.0.1 uzsrh.cn
+127.0.0.1 www.dcimei.tw
+127.0.0.1 xmrminer.cc
+127.0.0.1 coinhive.com
+127.0.0.1 www.coinhive.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 iad.g.163.com
@@ -6933,6 +6967,8 @@
 127.0.0.1 xpj8088.com
 127.0.0.1 xpjkf888.com
 127.0.0.1 h5.jiumaster.com
+127.0.0.1 www.xsl280.com
+127.0.0.1 www.xsl281.com
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 brance.play.cp81.ott.cibntv.net
