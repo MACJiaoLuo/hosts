@@ -18,11 +18,13 @@
 #aliyun
 127.0.0.1 cn.aliyun.com
 
+#fake tg
 #biyong
 127.0.0.1 www.biyong.info
 #qun duo duo
-#127.0.0.1 stats.jpush.cn
 127.0.0.1 api.qun.sh
+#im
+127.0.0.1 api.butterfly.im
 
 #      uc
 #uc sync：browser.cloud.ucweb.com/sync
