@@ -1,4 +1,4 @@
-## version：2018-12-11 01:58:11
+## version：2018-12-16 00:54:27
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -292,7 +292,6 @@
 127.0.0.1 img2.cs153.com
 127.0.0.1 g1.163.com
 127.0.0.1 popme.163.com
-127.0.0.1 g.163.com
 127.0.0.1 rec.g.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 n.3g.163.com
@@ -786,6 +785,8 @@
 127.0.0.1 bh.contextweb.com
 127.0.0.1 www.gxdhgb.com
 127.0.0.1 fbc.ffychb.com
+127.0.0.1 e.jbanb.com
+127.0.0.1 m.jbanb.com
 127.0.0.1 a.wlfnb.com
 127.0.0.1 ab.hysdknb.com
 127.0.0.1 ad.jsnbrynb.com
@@ -813,6 +814,7 @@
 127.0.0.1 mycleanmymac.com
 127.0.0.1 xia.mycleanmymac.com
 127.0.0.1 www.mycleanmymac.com
+127.0.0.1 m.ahuac.com
 127.0.0.1 new.taobc.com
 127.0.0.1 m.ilancc.com
 127.0.0.1 y.ilancc.com
@@ -1435,6 +1437,7 @@
 127.0.0.1 rcv.iclicash.com
 127.0.0.1 cdn.aiclicash.com
 127.0.0.1 wallet.advcash.com
+127.0.0.1 www.xqwiremesh.com
 127.0.0.1 www.kudifish.com
 127.0.0.1 activity.tuifish.com
 127.0.0.1 adm.xmfish.com
@@ -1528,6 +1531,8 @@
 127.0.0.1 m.ubaii.com
 127.0.0.1 m.ucaii.com
 127.0.0.1 stat.zbii.com
+127.0.0.1 e.dbeii.com
+127.0.0.1 m.dbeii.com
 127.0.0.1 www.admaji.com
 127.0.0.1 e.shenyunkeji.com
 127.0.0.1 m.shenyunkeji.com
@@ -1568,6 +1573,7 @@
 127.0.0.1 rubicon-match.dotomi.com
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 hbdt.luomi.com
+127.0.0.1 m.dceni.com
 127.0.0.1 n.a.mosenni.com
 127.0.0.1 k.bnuni.com
 127.0.0.1 p.bnuni.com
@@ -1678,6 +1684,7 @@
 127.0.0.1 m.lbaij.com
 127.0.0.1 e.dcaij.com
 127.0.0.1 m.gcaij.com
+127.0.0.1 m.cgaij.com
 127.0.0.1 e.abeij.com
 127.0.0.1 m.abeij.com
 127.0.0.1 m.dbeij.com
@@ -1700,11 +1707,14 @@
 127.0.0.1 kob.adxkj.com
 127.0.0.1 js.adxkj.com
 127.0.0.1 kn.qhdfxkj.com
+127.0.0.1 e.gxunj.com
+127.0.0.1 m.gxunj.com
 127.0.0.1 e.lbaoj.com
 127.0.0.1 m.lbaoj.com
 127.0.0.1 e.gtuoj.com
 127.0.0.1 m.gtuoj.com
 127.0.0.1 30ampj.com
+127.0.0.1 www.duobaoqj.com
 127.0.0.1 md.1drj.com
 127.0.0.1 xs.1drj.com
 127.0.0.1 8.jrj.com
@@ -2134,6 +2144,7 @@
 127.0.0.1 cnn.dyn.cnn.com
 127.0.0.1 gdyn.cnn.com
 127.0.0.1 metrics.cnn.com
+127.0.0.1 m.tcenn.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
@@ -2453,6 +2464,9 @@
 127.0.0.1 m.tchep.com
 127.0.0.1 dlimg.lovfp.com
 127.0.0.1 m.iangp.com
+127.0.0.1 e.tbaip.com
+127.0.0.1 m.tbaip.com
+127.0.0.1 m.ibeip.com
 127.0.0.1 u.ctrip.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 click.union.vip.com
@@ -2788,6 +2802,8 @@
 127.0.0.1 activation.acronis.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 www.cm-analysis.com
+127.0.0.1 e.wduis.com
+127.0.0.1 m.wduis.com
 127.0.0.1 e.okuis.com
 127.0.0.1 m.okuis.com
 127.0.0.1 radar.cedexis.com
@@ -3024,7 +3040,6 @@
 127.0.0.1 ztd.szkdst.com
 127.0.0.1 e.mozist.com
 127.0.0.1 c.silvinst.com
-127.0.0.1 app.adjust.com
 127.0.0.1 dd.70yst.com
 127.0.0.1 s1.qiqutt.com
 127.0.0.1 pixel-a.sitescout.com
@@ -3162,6 +3177,8 @@
 127.0.0.1 p.niudashu.com
 127.0.0.1 a.bshu.com
 127.0.0.1 c.mobishu.com
+127.0.0.1 pb1.qujishu.com
+127.0.0.1 pb2.qujishu.com
 127.0.0.1 c.panqishu.com
 127.0.0.1 sj.uukanshu.com
 127.0.0.1 api.ahjinshu.com
@@ -3328,6 +3345,7 @@
 127.0.0.1 e.wsxxu.com
 127.0.0.1 m.wsxxu.com
 127.0.0.1 down.bugeyu.com
+127.0.0.1 cookie.mengheyu.com
 127.0.0.1 cdntest.a8tiyu.com
 127.0.0.1 f.yueyetiyu.com
 127.0.0.1 wan.douyu.com
@@ -3596,6 +3614,7 @@
 127.0.0.1 m.casbanlly.com
 127.0.0.1 www.hldwmly.com
 127.0.0.1 s.yanpoly.com
+127.0.0.1 yly.hywly.com
 127.0.0.1 js7129.dlkjgjmy.com
 127.0.0.1 tyx.xtzxmy.com
 127.0.0.1 static.addtoany.com
@@ -3615,6 +3634,8 @@
 127.0.0.1 dyb.jdcbuy.com
 127.0.0.1 e.eshuy.com
 127.0.0.1 m.eshuy.com
+127.0.0.1 e.eqiuy.com
+127.0.0.1 m.eqiuy.com
 127.0.0.1 zyf.fzdfwy.com
 127.0.0.1 pc.ctsywy.com
 127.0.0.1 k.ctsywy.com
@@ -3658,6 +3679,7 @@
 127.0.0.1 m.dbaiz.com
 127.0.0.1 m.wbaiz.com
 127.0.0.1 e.aduiz.com
+127.0.0.1 m.aduiz.com
 127.0.0.1 czf.cchfjz.com
 127.0.0.1 yzh.jyjhkz.com
 127.0.0.1 a6s.ve001nz.com
@@ -3693,6 +3715,7 @@
 127.0.0.1 bd2.home8080.cn
 127.0.0.1 y0.cn
 127.0.0.1 j.s11.cn
+127.0.0.1 gxwlzz.baiduspider1.cn
 127.0.0.1 ctki.hs1s1.cn
 127.0.0.1 www.gcs1.cn
 127.0.0.1 www.qchannel02.cn
@@ -3948,6 +3971,7 @@
 127.0.0.1 dueu.0fwg.cn
 127.0.0.1 13yg.cn
 127.0.0.1 app.9yyg.cn
+127.0.0.1 anuk.9pb0h.cn
 127.0.0.1 vsqf.nal5h.cn
 127.0.0.1 greenxfs.down.123ch.cn
 127.0.0.1 click.linktech.cn
@@ -3963,6 +3987,7 @@
 127.0.0.1 lcs.dev.surepush.cn
 127.0.0.1 yihu.s06th.cn
 127.0.0.1 photo.jbbath.cn
+127.0.0.1 ocuf.pzuth.cn
 127.0.0.1 opsm.qflwh.cn
 127.0.0.1 12i.cn
 127.0.0.1 ncmo.v44i.cn
@@ -4283,6 +4308,7 @@
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 www.ttcdn.cn
 127.0.0.1 bmw2ep.paomifen.cn
+127.0.0.1 sdn.gongkao.hn.cn
 127.0.0.1 www.zhongmin.cn
 127.0.0.1 www2.xinmin.cn
 127.0.0.1 ini.litingxin.cn
@@ -4348,7 +4374,9 @@
 127.0.0.1 adpai.thepaper.cn
 127.0.0.1 imgadpai.thepaper.cn
 127.0.0.1 tag.cdnmaster.cn
+127.0.0.1 klk.jdflower.cn
 127.0.0.1 sw.cailawyer.cn
+127.0.0.1 photo.yqydjr.cn
 127.0.0.1 ggdata1.cnr.cn
 127.0.0.1 d1.cnr.cn
 127.0.0.1 adsame1.cnr.cn
@@ -4450,6 +4478,7 @@
 127.0.0.1 stats.magicwindow.cn
 127.0.0.1 g.hsw.cn
 127.0.0.1 photo.zgncpjyw.cn
+127.0.0.1 dam.zhqryw.cn
 127.0.0.1 js.wo-x.cn
 127.0.0.1 a.mjlnbx.cn
 127.0.0.1 1.chcx.cn
@@ -4490,7 +4519,6 @@
 127.0.0.1 ex.puata.info
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 shermore.info
-127.0.0.1 www.biyong.info
 127.0.0.1 static1.kewaishu.info
 127.0.0.1 x01.aidata.io
 127.0.0.1 baidut.github.io
