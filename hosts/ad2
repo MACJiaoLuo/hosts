@@ -68,7 +68,7 @@
 127.0.0.1 px-intl.ucweb.com
 127.0.0.1 flow.headline.uodoo.com
 127.0.0.1 abroad.apilocate.amap.com
-
+127.0.0.1 restapi.amap.com
 
 #yahoo
 127.0.0.1 geo.yahoo.com
@@ -165,6 +165,8 @@
 127.0.0.1 bodelen.com
 127.0.0.1 pushnice.com
 127.0.0.1 daibusee.com
+127.0.0.1 tdntrack.com
+127.0.0.1 ca.clcknads.pro
 #hpjav.com
 127.0.0.1 static.exosrv.com
 127.0.0.1 ads.exosrv.com
