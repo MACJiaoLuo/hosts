@@ -1,4 +1,4 @@
-## version：2018-12-27 19:49:00
+## version：2018-12-30 15:14:43
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -614,6 +614,7 @@
 127.0.0.1 d5p.de17a.com
 127.0.0.1 m.pieaa.com
 127.0.0.1 m.zeiaa.com
+127.0.0.1 m.tjiaa.com
 127.0.0.1 e.tuoaa.com
 127.0.0.1 m.mouaa.com
 127.0.0.1 m.nouaa.com
@@ -1736,6 +1737,7 @@
 127.0.0.1 m.gjiak.com
 127.0.0.1 sub.alisinak.com
 127.0.0.1 lhg.alisinak.com
+127.0.0.1 tdntrack.com
 127.0.0.1 bttrack.com
 127.0.0.1 c.codeonclick.com
 127.0.0.1 t.dmtrck.com
@@ -1910,6 +1912,8 @@
 127.0.0.1 pushapi.lenovomm.com
 127.0.0.1 susapi.lenovomm.com
 127.0.0.1 m.foumm.com
+127.0.0.1 e.vbanm.com
+127.0.0.1 m.vbanm.com
 127.0.0.1 vhldwuv6om.com
 127.0.0.1 e.vgaom.com
 127.0.0.1 m.vgaom.com
@@ -2437,7 +2441,6 @@
 127.0.0.1 www.555p555p.com
 127.0.0.1 j.zhdap.com
 127.0.0.1 ym.ychap.com
-127.0.0.1 abroad.apilocate.amap.com
 127.0.0.1 kn.chapnap.com
 127.0.0.1 m.yguap.com
 127.0.0.1 73.sinawap.com
@@ -2544,6 +2547,8 @@
 127.0.0.1 m.ffanq.com
 127.0.0.1 m.tbenq.com
 127.0.0.1 m.tbinq.com
+127.0.0.1 e.fcunq.com
+127.0.0.1 m.fcunq.com
 127.0.0.1 omgmta1.qq.com
 127.0.0.1 adsview2.qq.com
 127.0.0.1 dp3.qq.com
@@ -2823,6 +2828,8 @@
 127.0.0.1 unjs.jfcdns.com
 127.0.0.1 cdn.aegins.com
 127.0.0.1 log.umsns.com
+127.0.0.1 e.wcaos.com
+127.0.0.1 m.wcaos.com
 127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
@@ -3549,6 +3556,7 @@
 127.0.0.1 analytics.spotify.com
 127.0.0.1 www.dgfggy.com
 127.0.0.1 sy.jlhygy.com
+127.0.0.1 x.9zt8hy.com
 127.0.0.1 moons.66bhy.com
 127.0.0.1 e.suehy.com
 127.0.0.1 m.suehy.com
@@ -3649,6 +3657,7 @@
 127.0.0.1 m.ajiez.com
 127.0.0.1 m.dbaiz.com
 127.0.0.1 m.wbaiz.com
+127.0.0.1 m.wbeiz.com
 127.0.0.1 e.aduiz.com
 127.0.0.1 m.aduiz.com
 127.0.0.1 czf.cchfjz.com
@@ -3954,6 +3963,7 @@
 127.0.0.1 greenxfs.down.123ch.cn
 127.0.0.1 click.linktech.cn
 127.0.0.1 marketing.etouch.cn
+127.0.0.1 rbbf.07kfh.cn
 127.0.0.1 wrvdmh.cn
 127.0.0.1 fyal.e9emh.cn
 127.0.0.1 sypd.w13qh.cn
@@ -4270,6 +4280,7 @@
 127.0.0.1 shiwan.dl.gxpan.cn
 127.0.0.1 mairuan.cn
 127.0.0.1 www.mairuan.cn
+127.0.0.1 photo.jiaxiyuan.cn
 127.0.0.1 bingdianhuanyuan.cn
 127.0.0.1 xia.bingdianhuanyuan.cn
 127.0.0.1 www.bingdianhuanyuan.cn
@@ -4482,6 +4493,7 @@
 127.0.0.1 s.okmgy.cn
 127.0.0.1 ms.ienkdaccessory.cn
 127.0.0.1 kn.jzhrty.cn
+127.0.0.1 kn.hnfxty.cn
 127.0.0.1 ssl.hyhzy.cn
 127.0.0.1 jjyy.gaopengqcdz.cn
 127.0.0.1 worldh5.gamehz.cn
@@ -4511,6 +4523,7 @@
 127.0.0.1 match.prod.bidr.io
 127.0.0.1 i.ssix.io
 127.0.0.1 sync.1rx.io
+127.0.0.1 ca.clcknads.pro
 127.0.0.1 mrw.so
 127.0.0.1 xj40666.vip
 127.0.0.1 58lm.vip
@@ -4709,6 +4722,7 @@
 127.0.0.1 m.qingzhencai.net
 127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 api.cloudmobi.net
+127.0.0.1 xiny.yssbi.net
 127.0.0.1 adimgs.xici.net
 127.0.0.1 ad7.tagphi.net
 127.0.0.1 qiye11.ejunshi.net

@@ -1,4 +1,4 @@
-## version：2018-12-27 19:49:00
+## version：2018-12-30 15:14:43
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -2098,6 +2098,19 @@
 127.0.0.1 e.fdoun.com
 127.0.0.1 e.wbanz.com
 127.0.0.1 hyjss.tkshyp.com
+127.0.0.1 e.fcunq.com
+127.0.0.1 e.vbanm.com
+127.0.0.1 e.wcaos.com
+127.0.0.1 kn.hnfxty.cn
+127.0.0.1 m.fcunq.com
+127.0.0.1 m.tjiaa.com
+127.0.0.1 m.vbanm.com
+127.0.0.1 m.wbeiz.com
+127.0.0.1 m.wcaos.com
+127.0.0.1 photo.jiaxiyuan.cn
+127.0.0.1 rbbf.07kfh.cn
+127.0.0.1 x.9zt8hy.com
+127.0.0.1 xiny.yssbi.net
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -7139,6 +7152,7 @@
 127.0.0.1 px-intl.ucweb.com
 127.0.0.1 flow.headline.uodoo.com
 127.0.0.1 abroad.apilocate.amap.com
+127.0.0.1 restapi.amap.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 udc.yahoo.com
 127.0.0.1 sg3.beap.gemini.yahoo.com
@@ -7199,6 +7213,8 @@
 127.0.0.1 bodelen.com
 127.0.0.1 pushnice.com
 127.0.0.1 daibusee.com
+127.0.0.1 tdntrack.com
+127.0.0.1 ca.clcknads.pro
 127.0.0.1 static.exosrv.com
 127.0.0.1 ads.exosrv.com
 127.0.0.1 syndication.exosrv.com
