@@ -1,4 +1,4 @@
-## version：2018-12-30 15:14:43
+## version：2019-01-06 22:40:51
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -13,6 +13,7 @@
 127.0.0.1 lm.xiashu.la
 127.0.0.1 h.holder.com.ua
 127.0.0.1 match.c8.net.ua
+127.0.0.1 www.lm.cccab.club
 127.0.0.1 e.zhuyuanp.club
 127.0.0.1 m.zhuyuanp.club
 127.0.0.1 m.biquge5200.cc
@@ -349,6 +350,7 @@
 127.0.0.1 mjs.csyymp4.com
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
+127.0.0.1 x.china1715.com
 127.0.0.1 fghmc.ga25.com
 127.0.0.1 fghmimg.ga25.com
 127.0.0.1 fghm.ga25.com
@@ -421,7 +423,6 @@
 127.0.0.1 vip.hyz86.com
 127.0.0.1 s.hyz86.com
 127.0.0.1 www.8269996.com
-127.0.0.1 yyb.pc6.com
 127.0.0.1 uri6.com
 127.0.0.1 oask.xulizui6.com
 127.0.0.1 tt.twzui6.com
@@ -974,6 +975,8 @@
 127.0.0.1 s.phpwind.com
 127.0.0.1 init.phpwind.com
 127.0.0.1 nt.phpwind.com
+127.0.0.1 e.zcaod.com
+127.0.0.1 m.zcaod.com
 127.0.0.1 m.jhcgood.com
 127.0.0.1 gload.adhood.com
 127.0.0.1 item.ttkvod.com
@@ -1066,7 +1069,9 @@
 127.0.0.1 e.kjfhe.com
 127.0.0.1 m.kjfhe.com
 127.0.0.1 www.baihe.com
+127.0.0.1 a.wanrenshe.com
 127.0.0.1 ksr.juuhe.com
+127.0.0.1 m.wbaie.com
 127.0.0.1 e.kxhie.com
 127.0.0.1 m.kxhie.com
 127.0.0.1 www.ynbojie.com
@@ -1676,6 +1681,8 @@
 127.0.0.1 static.1j1j.com
 127.0.0.1 e.uzhaj.com
 127.0.0.1 m.uzhaj.com
+127.0.0.1 e.gjiaj.com
+127.0.0.1 m.gjiaj.com
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 e.czggcj.com
 127.0.0.1 jjx.xjtxcj.com
@@ -1683,6 +1690,8 @@
 127.0.0.1 sss.cnscdj.com
 127.0.0.1 m.dbiej.com
 127.0.0.1 hm.ubiej.com
+127.0.0.1 e.glvej.com
+127.0.0.1 m.glvej.com
 127.0.0.1 pc.5151gj.com
 127.0.0.1 er.dlhygj.com
 127.0.0.1 www.qupinhj.com
@@ -1888,6 +1897,8 @@
 127.0.0.1 cdn.optaim.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 www.optaim.com
+127.0.0.1 e.vchim.com
+127.0.0.1 m.vchim.com
 127.0.0.1 aswl.zjhim.com
 127.0.0.1 emss.zjhim.com
 127.0.0.1 faggrim.com
@@ -2484,6 +2495,7 @@
 127.0.0.1 www.xszqapp.com
 127.0.0.1 inapp.1sapp.com
 127.0.0.1 noxagile.duapp.com
+127.0.0.1 www.kanshuapp.com
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 cp.ggyapp.com
 127.0.0.1 e.hunpp.com
@@ -2698,6 +2710,7 @@
 127.0.0.1 ls.srvcs.tumblr.com
 127.0.0.1 e.coenr.com
 127.0.0.1 m.coenr.com
+127.0.0.1 m.vbinr.com
 127.0.0.1 adrunnr.com
 127.0.0.1 sp.wndoor.com
 127.0.0.1 load77.exelator.com
@@ -2800,6 +2813,7 @@
 127.0.0.1 m.wduis.com
 127.0.0.1 e.okuis.com
 127.0.0.1 m.okuis.com
+127.0.0.1 m.izuis.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 dps.wtdtjs.com
 127.0.0.1 e.bbvjs.com
@@ -2969,6 +2983,7 @@
 127.0.0.1 cm.ctnsnet.com
 127.0.0.1 trace.ynet.com
 127.0.0.1 gao.ynet.com
+127.0.0.1 m.gjuet.com
 127.0.0.1 ingameads.gameloft.com
 127.0.0.1 serial.alcohol-soft.com
 127.0.0.1 trial.alcohol-soft.com
@@ -3045,6 +3060,8 @@
 127.0.0.1 c.silvinst.com
 127.0.0.1 dd.70yst.com
 127.0.0.1 s1.qiqutt.com
+127.0.0.1 e.qdiut.com
+127.0.0.1 m.qdiut.com
 127.0.0.1 pixel-a.sitescout.com
 127.0.0.1 img.tcdxt.com
 127.0.0.1 in.qzkxt.com
@@ -3403,6 +3420,8 @@
 127.0.0.1 yfcode.m.gxwztv.com
 127.0.0.1 yfxpcode.m.gxwztv.com
 127.0.0.1 drdj.m.gxwztv.com
+127.0.0.1 e.xcouv.com
+127.0.0.1 m.xcouv.com
 127.0.0.1 j.qiqivv.com
 127.0.0.1 e.joyxv.com
 127.0.0.1 m.joyxv.com
@@ -3665,6 +3684,7 @@
 127.0.0.1 a6s.ve001nz.com
 127.0.0.1 e.wbanz.com
 127.0.0.1 m.wbanz.com
+127.0.0.1 m.wbaoz.com
 127.0.0.1 e.acaoz.com
 127.0.0.1 m.acaoz.com
 127.0.0.1 m.dgaoz.com
@@ -3702,6 +3722,7 @@
 127.0.0.1 www.gcs1.cn
 127.0.0.1 www.qchannel02.cn
 127.0.0.1 oss-asq-static.11222.cn
+127.0.0.1 m.tenh2.cn
 127.0.0.1 www.xiaohui2.cn
 127.0.0.1 jtqg.kz8tr2.cn
 127.0.0.1 b.qchannel03.cn
@@ -3759,6 +3780,7 @@
 127.0.0.1 yun.tuia.cn
 127.0.0.1 xingmengxia.cn
 127.0.0.1 js.lieqitianxia.cn
+127.0.0.1 photo.ofsja.cn
 127.0.0.1 m.pkbrxja.cn
 127.0.0.1 s.caduka.cn
 127.0.0.1 a.alimama.cn
@@ -3850,6 +3872,7 @@
 127.0.0.1 m.assigned.cn
 127.0.0.1 alifixed.cn
 127.0.0.1 game.baichuanhd.cn
+127.0.0.1 m.msujd.cn
 127.0.0.1 eyjs.b7nkd.cn
 127.0.0.1 m.lxind.cn
 127.0.0.1 photo.dhford.cn
@@ -3885,7 +3908,6 @@
 127.0.0.1 bro.flyme.cn
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 t-flow.flyme.cn
-127.0.0.1 www.flyme.cn
 127.0.0.1 c.queene.cn
 127.0.0.1 lwnne.cn
 127.0.0.1 js.lwnne.cn
@@ -3958,11 +3980,14 @@
 127.0.0.1 13yg.cn
 127.0.0.1 app.9yyg.cn
 127.0.0.1 anuk.9pb0h.cn
+127.0.0.1 qorf.nxh2h.cn
+127.0.0.1 ixnj.8j24h.cn
 127.0.0.1 vsqf.nal5h.cn
 127.0.0.1 ytlo.7ia9h.cn
 127.0.0.1 greenxfs.down.123ch.cn
 127.0.0.1 click.linktech.cn
 127.0.0.1 marketing.etouch.cn
+127.0.0.1 mconedh.cn
 127.0.0.1 rbbf.07kfh.cn
 127.0.0.1 wrvdmh.cn
 127.0.0.1 fyal.e9emh.cn
@@ -4012,6 +4037,7 @@
 127.0.0.1 symaj.cn
 127.0.0.1 m.symaj.cn
 127.0.0.1 s.khgj.cn
+127.0.0.1 m.xcfwnhj.cn
 127.0.0.1 c.rscxwmj.cn
 127.0.0.1 pc.quansj.cn
 127.0.0.1 photo.rdguj.cn
@@ -4271,6 +4297,7 @@
 127.0.0.1 usercollection.chinadaily.com.cn
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 kn.dyscsm.cn
+127.0.0.1 m.enrogwm.cn
 127.0.0.1 difnxm.cn
 127.0.0.1 gpydym.cn
 127.0.0.1 t1n.cn
@@ -4432,7 +4459,6 @@
 127.0.0.1 b17.xiumu.cn
 127.0.0.1 j17.xiumu.cn
 127.0.0.1 taou.cn
-127.0.0.1 www.aifou.cn
 127.0.0.1 c.365yigou.cn
 127.0.0.1 cc.365yigou.cn
 127.0.0.1 photo.haoquangou.cn
@@ -4497,6 +4523,7 @@
 127.0.0.1 ssl.hyhzy.cn
 127.0.0.1 jjyy.gaopengqcdz.cn
 127.0.0.1 worldh5.gamehz.cn
+127.0.0.1 m.blfyquz.cn
 127.0.0.1 m.nuxyz.cn
 127.0.0.1 aos-creative.prf.hn
 127.0.0.1 aos.prf.hn
