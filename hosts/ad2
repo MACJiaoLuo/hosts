@@ -49,13 +49,13 @@
 127.0.0.1 hl-img.peco.uodoo.com
 #127.0.0.1 woodpecker.uc.cn
 127.0.0.1 push.maribacaberita.com
-127.0.0.1 acs.m.taobao.com
-127.0.0.1 amdc.m.taobao.com
+#@127.0.0.1 acs.m.taobao.com
+#127.0.0.1 amdc.m.taobao.com
 #127.0.0.1 ucus.ucweb.com
 #+127.0.0.1 vs12.bj.u3.ucweb.com
 127.0.0.1 navicms.ucweb.com
 127.0.0.1 gm.mmstat.com
-#+127.0.0.1 log.mmstat.com
+#@127.0.0.1 log.mmstat.com
 127.0.0.1 broccoli.ucweb.com
 127.0.0.1 us.ynuf.aliapp.org
 127.0.0.1 acs.maribacaberita.com
@@ -67,8 +67,8 @@
 127.0.0.1 safe.ucweb.com
 127.0.0.1 px-intl.ucweb.com
 127.0.0.1 flow.headline.uodoo.com
-127.0.0.1 abroad.apilocate.amap.com
-127.0.0.1 restapi.amap.com
+#127.0.0.1 abroad.apilocate.amap.com
+#127.0.0.1 restapi.amap.com
 
 #yahoo
 127.0.0.1 geo.yahoo.com

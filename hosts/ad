@@ -1,4 +1,4 @@
-## version：2019-01-08 14:45:26
+## version：2019-01-10 04:15:53
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -2258,7 +2258,6 @@
 127.0.0.1 i.click.taobao.com
 127.0.0.1 s.click.taobao.com
 127.0.0.1 simba.m.taobao.com
-127.0.0.1 amdc.m.taobao.com
 127.0.0.1 re.m.taobao.com
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 temai.m.taobao.com
@@ -2452,8 +2451,6 @@
 127.0.0.1 www.555p555p.com
 127.0.0.1 j.zhdap.com
 127.0.0.1 ym.ychap.com
-127.0.0.1 abroad.apilocate.amap.com
-127.0.0.1 restapi.amap.com
 127.0.0.1 kn.chapnap.com
 127.0.0.1 m.yguap.com
 127.0.0.1 73.sinawap.com
