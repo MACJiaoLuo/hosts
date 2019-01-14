@@ -1,4 +1,4 @@
-## version：2019-01-12 01:01:47
+## version：2019-01-14 15:53:04
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -620,6 +620,7 @@
 127.0.0.1 drsw.m.yuyouge.com
 127.0.0.1 bd1.52che.com
 127.0.0.1 bd2.52che.com
+127.0.0.1 s.abcache.com
 127.0.0.1 d2.yiche.com
 127.0.0.1 jxlog.istreamsche.com
 127.0.0.1 tanxlog.istreamsche.com
@@ -724,6 +725,7 @@
 127.0.0.1 cee2.iteye.com
 127.0.0.1 ad.vryeye.com
 127.0.0.1 30350f.com
+127.0.0.1 nfh.cnshef.com
 127.0.0.1 adm.265g.com
 127.0.0.1 t.trafmag.com
 127.0.0.1 notify.bugsnag.com
@@ -872,6 +874,9 @@
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 analytics.wanmei.com
+127.0.0.1 js.union-wifi.com
+127.0.0.1 rcv.union-wifi.com
+127.0.0.1 web.kuaisouwifi.com
 127.0.0.1 ads.intergi.com
 127.0.0.1 imp.asahi.com
 127.0.0.1 click.cheshi.com
@@ -1157,9 +1162,15 @@
 127.0.0.1 market.21cn.com
 127.0.0.1 admarket.21cn.com
 127.0.0.1 www.pikacn.com
+127.0.0.1 sgg.southcn.com
 127.0.0.1 xshellcn.com
 127.0.0.1 xia.xshellcn.com
 127.0.0.1 www.xshellcn.com
+127.0.0.1 mbd.weathercn.com
+127.0.0.1 mbs.weathercn.com
+127.0.0.1 tongji.miercn.com
+127.0.0.1 hz.miercn.com
+127.0.0.1 msg.c002.ottcn.com
 127.0.0.1 s.17173cdn.com
 127.0.0.1 wlneteller.adsrv.eacdn.com
 127.0.0.1 sm.domobcdn.com
@@ -1375,6 +1386,7 @@
 127.0.0.1 www.mrelko.com
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
+127.0.0.1 stat.cnmo.com
 127.0.0.1 stat.vccoo.com
 127.0.0.1 script.vccoo.com
 127.0.0.1 a.jyeoo.com
@@ -1443,6 +1455,7 @@
 127.0.0.1 inapp.1sapp.com
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 binaryage-leechgate.herokuapp.com
+127.0.0.1 e.cn-3drp.com
 127.0.0.1 pb3.pstatp.com
 127.0.0.1 dm.pstatp.com
 127.0.0.1 dbregistration.cuteftp.com
@@ -1576,8 +1589,17 @@
 127.0.0.1 pic.jdbbs.com
 127.0.0.1 img.apnanalytics.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
+127.0.0.1 img-dsp.oss-cn-beijing.aliyuncs.com
+127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
+127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
+127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
+127.0.0.1 jiayi1.oss-cn-shanghai.aliyuncs.com
+127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
+127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 img.88ads.com
 127.0.0.1 um2.eqads.com
 127.0.0.1 disqusads.com
@@ -2084,6 +2106,8 @@
 127.0.0.1 log.spotify.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 analytics.spotify.com
+127.0.0.1 ms.cnczjy.com
+127.0.0.1 ss.cnczjy.com
 127.0.0.1 sq1.chinacsky.com
 127.0.0.1 sq2.chinacsky.com
 127.0.0.1 counter.yesky.com
@@ -2174,6 +2198,32 @@
 127.0.0.1 finead.cn
 127.0.0.1 xc.macd.cn
 127.0.0.1 m.uczzd.cn
+127.0.0.1 ads.ce.cn
+127.0.0.1 s.xcfe.cn
+127.0.0.1 g.x.evolife.cn
+127.0.0.1 linkpage.cn
+127.0.0.1 t.linkpage.cn
+127.0.0.1 iflyad.bj.openstorage.cn
+127.0.0.1 config.adsage.cn
+127.0.0.1 www.adsage.cn
+127.0.0.1 adf.dahe.cn
+127.0.0.1 yun.sifuhe.cn
+127.0.0.1 mcore.vcgame.cn
+127.0.0.1 log.vcgame.cn
+127.0.0.1 mathtype.cn
+127.0.0.1 xia.mathtype.cn
+127.0.0.1 www.mathtype.cn
+127.0.0.1 appspromote.wostore.cn
+127.0.0.1 unilog.wostore.cn
+127.0.0.1 unipayupg.wostore.cn
+127.0.0.1 unipaydl.wostore.cn
+127.0.0.1 secpay.wostore.cn
+127.0.0.1 adfuture.cn
+127.0.0.1 bigdata.adfuture.cn
+127.0.0.1 fotacontrol.adfuture.cn
+127.0.0.1 folder.adfuture.cn
+127.0.0.1 www.hisense.cn
+127.0.0.1 asimgs.pplive.cn
 127.0.0.1 www.360clg.cn
 127.0.0.1 d0.sinaimg.cn
 127.0.0.1 d1.sinaimg.cn
@@ -2454,6 +2504,9 @@
 127.0.0.1 bingdianhuanyuan.cn
 127.0.0.1 xia.bingdianhuanyuan.cn
 127.0.0.1 www.bingdianhuanyuan.cn
+127.0.0.1 kingdeecn.cn
+127.0.0.1 xia.kingdeecn.cn
+127.0.0.1 www.kingdeecn.cn
 127.0.0.1 i.mmcdn.cn
 127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 mo.res.wpscdn.cn
@@ -2524,6 +2577,10 @@
 127.0.0.1 pv.focus.cn
 127.0.0.1 tmisc.home.news.cn
 127.0.0.1 webd.home.news.cn
+127.0.0.1 api.callget.cn
+127.0.0.1 ad.rednet.cn
+127.0.0.1 cdn.img.kachapt.cn
+127.0.0.1 cdn.app.kachapt.cn
 127.0.0.1 www.saxmcu.cn
 127.0.0.1 ndyjs.xjtu.edu.cn
 127.0.0.1 zxyjhx.gszy.edu.cn
@@ -2840,6 +2897,13 @@
 127.0.0.1 www.acint.net
 127.0.0.1 rbp.emea.mxptint.net
 127.0.0.1 rbp.mxptint.net
+127.0.0.1 d3al52d8cojds7.cloudfront.net
+127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
+127.0.0.1 d29qt51jeyi6xb.cloudfront.net
+127.0.0.1 d3v1lb83psg9di.cloudfront.net
+127.0.0.1 desgao1zt7irn.cloudfront.net
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 adimg.deviantart.net
 127.0.0.1 cp.jz5u.net
 127.0.0.1 baidu.jz5u.net
@@ -2877,6 +2941,7 @@
 127.0.0.1 gwiqcdn.globalwebindex.net
 127.0.0.1 gwiq.globalwebindex.net
 127.0.0.1 st.targetix.net
+127.0.0.1 t.cnsjx.net
 127.0.0.1 flurry.cachefly.net
 127.0.0.1 ad-delivery.net
 127.0.0.1 cdn.media.innity.net
