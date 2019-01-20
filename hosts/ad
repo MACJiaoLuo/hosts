@@ -1,4 +1,4 @@
-## version：2019-01-17 20:53:53
+## version：2019-01-20 23:01:48
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -425,6 +425,7 @@
 127.0.0.1 xia.abbyychina.com
 127.0.0.1 www.abbyychina.com
 127.0.0.1 pfpip.sina.com
+127.0.0.1 m.pcuna.com
 127.0.0.1 bd1.dopa.com
 127.0.0.1 bd2.dopa.com
 127.0.0.1 817.dopa.com
@@ -956,6 +957,7 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 fb.xk.miui.com
 127.0.0.1 r.browser.miui.com
+127.0.0.1 dianrui.com
 127.0.0.1 sp.yixui.com
 127.0.0.1 js.yixui.com
 127.0.0.1 dev.tg.youxi.com
@@ -998,6 +1000,10 @@
 127.0.0.1 cytroncdn.videojj.com
 127.0.0.1 cytron.videojj.com
 127.0.0.1 plat.videojj.com
+127.0.0.1 e.ybanj.com
+127.0.0.1 m.ybanj.com
+127.0.0.1 e.ycuoj.com
+127.0.0.1 m.ycuoj.com
 127.0.0.1 30ampj.com
 127.0.0.1 md.1drj.com
 127.0.0.1 xs.1drj.com
@@ -1010,6 +1016,7 @@
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 www8.xitek.com
 127.0.0.1 ad.unimhk.com
+127.0.0.1 m.hchik.com
 127.0.0.1 rosi.okkkk.com
 127.0.0.1 jack.okkkk.com
 127.0.0.1 inclk.com
@@ -1045,6 +1052,7 @@
 127.0.0.1 prcappzone.intel.com
 127.0.0.1 syndication.intel.com
 127.0.0.1 s.6travel.com
+127.0.0.1 m.wcail.com
 127.0.0.1 a1.huanqiumil.com
 127.0.0.1 a2.huanqiumil.com
 127.0.0.1 s.click.tmall.com
@@ -1447,6 +1455,7 @@
 127.0.0.1 setting.rayjump.com
 127.0.0.1 analytics.rayjump.com
 127.0.0.1 net.rayjump.com
+127.0.0.1 m.ocenp.com
 127.0.0.1 ad.funp.com
 127.0.0.1 33.pcpop.com
 127.0.0.1 count.pcpop.com
@@ -1548,6 +1557,8 @@
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
 127.0.0.1 st.holalauncher.com
+127.0.0.1 e.wjier.com
+127.0.0.1 m.wjier.com
 127.0.0.1 push-android.myzaker.com
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
@@ -1583,6 +1594,8 @@
 127.0.0.1 load77.exelator.com
 127.0.0.1 loadm.exelator.com
 127.0.0.1 www.webdissector.com
+127.0.0.1 e.ejiur.com
+127.0.0.1 m.ejiur.com
 127.0.0.1 act2.mediafour.com
 127.0.0.1 85058s.com
 127.0.0.1 upd.faronicslabs.com
@@ -2210,6 +2223,7 @@
 127.0.0.1 xc.macd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 ads.ce.cn
+127.0.0.1 m.themee.cn
 127.0.0.1 s.xcfe.cn
 127.0.0.1 g.x.evolife.cn
 127.0.0.1 linkpage.cn
@@ -2252,11 +2266,13 @@
 127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 zzjs2.firefang.cn
 127.0.0.1 js.firefang.cn
+127.0.0.1 4336wang.cn
 127.0.0.1 click.suning.cn
 127.0.0.1 apm.suning.cn
 127.0.0.1 game.rising.cn
 127.0.0.1 wan.rising.cn
 127.0.0.1 d.elong.cn
+127.0.0.1 bcuh.tinwong.cn
 127.0.0.1 404.safedog.cn
 127.0.0.1 ad.funshion.org.cn
 127.0.0.1 13yg.cn
@@ -2269,6 +2285,7 @@
 127.0.0.1 test.surepush.cn
 127.0.0.1 susapi.dev.surepush.cn
 127.0.0.1 lcs.dev.surepush.cn
+127.0.0.1 xtsk.6yush.cn
 127.0.0.1 12i.cn
 127.0.0.1 wodeai.cn
 127.0.0.1 maimai.cn
@@ -2299,6 +2316,7 @@
 127.0.0.1 stream.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
 127.0.0.1 bixia.fymm.cn
+127.0.0.1 c.ningmengnm.cn
 127.0.0.1 mimg.7791.com.cn
 127.0.0.1 www.jj123.com.cn
 127.0.0.1 ca.w8.com.cn
@@ -3041,6 +3059,7 @@
 127.0.0.1 trafficfactory.biz
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.gogolm.xyz
+127.0.0.1 activity.clotfun.xyz
 127.0.0.1 t.supermario.xyz
 127.0.0.1 cdn.hivps.xyz
 127.0.0.1 ip.hivps.xyz
