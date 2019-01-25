@@ -1,4 +1,4 @@
-## version：2019-01-23 19:23:21
+## version：2019-01-25 14:37:06
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -70,6 +70,7 @@
 127.0.0.1 xiazai.pdfexpert.cc
 127.0.0.1 www.xiazai.pdfexpert.cc
 127.0.0.1 www.pdfexpert.cc
+127.0.0.1 c.wantxt.cc
 127.0.0.1 ai.xinju.cc
 127.0.0.1 in1.feed.uu.cc
 127.0.0.1 in1.secure.uu.cc
@@ -425,7 +426,6 @@
 127.0.0.1 xia.abbyychina.com
 127.0.0.1 www.abbyychina.com
 127.0.0.1 pfpip.sina.com
-127.0.0.1 m.pcuna.com
 127.0.0.1 bd1.dopa.com
 127.0.0.1 bd2.dopa.com
 127.0.0.1 817.dopa.com
@@ -505,7 +505,6 @@
 127.0.0.1 ms.vipstatic.com
 127.0.0.1 crm-eve.b2b.alibaba-inc.com
 127.0.0.1 eclick.360doc.com
-127.0.0.1 m.achuc.com
 127.0.0.1 p.sdu8cvc.com
 127.0.0.1 imgc.cymzc.com
 127.0.0.1 imgp.cymzc.com
@@ -728,7 +727,6 @@
 127.0.0.1 ad.vryeye.com
 127.0.0.1 30350f.com
 127.0.0.1 nfh.cnshef.com
-127.0.0.1 m.ddanf.com
 127.0.0.1 adm.265g.com
 127.0.0.1 t.trafmag.com
 127.0.0.1 notify.bugsnag.com
@@ -855,6 +853,7 @@
 127.0.0.1 down.winbaicai.com
 127.0.0.1 www.winbaicai.com
 127.0.0.1 t.geedai.com
+127.0.0.1 suedai.com
 127.0.0.1 duomai.com
 127.0.0.1 c.duomai.com
 127.0.0.1 mlog.aipai.com
@@ -957,7 +956,6 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 fb.xk.miui.com
 127.0.0.1 r.browser.miui.com
-127.0.0.1 dianrui.com
 127.0.0.1 sp.yixui.com
 127.0.0.1 js.yixui.com
 127.0.0.1 dev.tg.youxi.com
@@ -1000,10 +998,6 @@
 127.0.0.1 cytroncdn.videojj.com
 127.0.0.1 cytron.videojj.com
 127.0.0.1 plat.videojj.com
-127.0.0.1 e.ybanj.com
-127.0.0.1 m.ybanj.com
-127.0.0.1 e.ycuoj.com
-127.0.0.1 m.ycuoj.com
 127.0.0.1 30ampj.com
 127.0.0.1 md.1drj.com
 127.0.0.1 xs.1drj.com
@@ -1016,7 +1010,6 @@
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 www8.xitek.com
 127.0.0.1 ad.unimhk.com
-127.0.0.1 m.hchik.com
 127.0.0.1 rosi.okkkk.com
 127.0.0.1 jack.okkkk.com
 127.0.0.1 inclk.com
@@ -1052,7 +1045,6 @@
 127.0.0.1 prcappzone.intel.com
 127.0.0.1 syndication.intel.com
 127.0.0.1 s.6travel.com
-127.0.0.1 m.wcail.com
 127.0.0.1 a1.huanqiumil.com
 127.0.0.1 a2.huanqiumil.com
 127.0.0.1 s.click.tmall.com
@@ -1247,8 +1239,6 @@
 127.0.0.1 pic.jdunion.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 dsp.adfarm1.adition.com
-127.0.0.1 e.ezuon.com
-127.0.0.1 m.ezuon.com
 127.0.0.1 ads1.msn.com
 127.0.0.1 a.ads1.msn.com
 127.0.0.1 b.ads1.msn.com
@@ -1455,7 +1445,6 @@
 127.0.0.1 setting.rayjump.com
 127.0.0.1 analytics.rayjump.com
 127.0.0.1 net.rayjump.com
-127.0.0.1 m.ocenp.com
 127.0.0.1 ad.funp.com
 127.0.0.1 33.pcpop.com
 127.0.0.1 count.pcpop.com
@@ -1466,6 +1455,7 @@
 127.0.0.1 s.tantanapp.com
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 sensorsdata.ruguoapp.com
+127.0.0.1 www.xszqapp.com
 127.0.0.1 inapp.1sapp.com
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 binaryage-leechgate.herokuapp.com
@@ -1544,7 +1534,6 @@
 127.0.0.1 analy.qq.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 m.kubiqq.com
-127.0.0.1 www.oollttqq.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 same.stockstar.com
 127.0.0.1 info.stockstar.com
@@ -1557,8 +1546,6 @@
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 i.holalauncher.com
 127.0.0.1 st.holalauncher.com
-127.0.0.1 e.wjier.com
-127.0.0.1 m.wjier.com
 127.0.0.1 push-android.myzaker.com
 127.0.0.1 adm.myzaker.com
 127.0.0.1 ggs.myzaker.com
@@ -1594,8 +1581,6 @@
 127.0.0.1 load77.exelator.com
 127.0.0.1 loadm.exelator.com
 127.0.0.1 www.webdissector.com
-127.0.0.1 e.ejiur.com
-127.0.0.1 m.ejiur.com
 127.0.0.1 act2.mediafour.com
 127.0.0.1 85058s.com
 127.0.0.1 upd.faronicslabs.com
@@ -1830,6 +1815,7 @@
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 adscdn.baidu.com
 127.0.0.1 river.zhidao.baidu.com
+127.0.0.1 baijiahao.baidu.com
 127.0.0.1 yingxiao.baidu.com
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 nsclickvideo.baidu.com
@@ -1909,8 +1895,6 @@
 127.0.0.1 g4.iqilu.com
 127.0.0.1 1.xilu.com
 127.0.0.1 newspage.xilu.com
-127.0.0.1 e.kcenu.com
-127.0.0.1 m.kcenu.com
 127.0.0.1 www.7ldou.com
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 img0.egou.com
@@ -2099,7 +2083,6 @@
 127.0.0.1 c1.wkanx.com
 127.0.0.1 c.wkanx.com
 127.0.0.1 static.wkanx.com
-127.0.0.1 bbs.search.nkwwnx.com
 127.0.0.1 cm.adgrx.com
 127.0.0.1 jwpltx.com
 127.0.0.1 a.fengyx.com
@@ -2223,7 +2206,6 @@
 127.0.0.1 xc.macd.cn
 127.0.0.1 m.uczzd.cn
 127.0.0.1 ads.ce.cn
-127.0.0.1 m.themee.cn
 127.0.0.1 s.xcfe.cn
 127.0.0.1 g.x.evolife.cn
 127.0.0.1 linkpage.cn
@@ -2272,11 +2254,9 @@
 127.0.0.1 game.rising.cn
 127.0.0.1 wan.rising.cn
 127.0.0.1 d.elong.cn
-127.0.0.1 bcuh.tinwong.cn
 127.0.0.1 404.safedog.cn
 127.0.0.1 ad.funshion.org.cn
 127.0.0.1 13yg.cn
-127.0.0.1 qrrl.cwj2h.cn
 127.0.0.1 click.linktech.cn
 127.0.0.1 marketing.etouch.cn
 127.0.0.1 uzsrh.cn
@@ -2285,7 +2265,6 @@
 127.0.0.1 test.surepush.cn
 127.0.0.1 susapi.dev.surepush.cn
 127.0.0.1 lcs.dev.surepush.cn
-127.0.0.1 xtsk.6yush.cn
 127.0.0.1 12i.cn
 127.0.0.1 wodeai.cn
 127.0.0.1 maimai.cn
