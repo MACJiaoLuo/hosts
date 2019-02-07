@@ -194,9 +194,17 @@
 127.0.0.1 schema.org
 127.0.0.1 ad.yieldmanager.com
 
+#cili
+127.0.0.1 k.dpjszs.com
+127.0.0.1 jc.beijinglvyou.net.cn
+127.0.0.1 qj.borsendental.com
+127.0.0.1 k.xmtsyg.com
+127.0.0.1 i.jhwj88.com
+
 
 #mi
 #+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 api.sec.miui.com
 
 #hw
 127.0.0.1 push1.hicloud.com
