@@ -1,4 +1,4 @@
-## version：2019-02-08 03:53:06
+## version：2019-02-11 02:26:24
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -304,6 +304,7 @@
 127.0.0.1 www.ylwy168.com
 127.0.0.1 m.1768.com
 127.0.0.1 www.hg89078.com
+127.0.0.1 jc.4006825178.com
 127.0.0.1 xpj8088.com
 127.0.0.1 match.p4p.1688.com
 127.0.0.1 xpjkf888.com
@@ -434,7 +435,6 @@
 127.0.0.1 playinfo.gomlab.com
 127.0.0.1 www.fanqianbb.com
 127.0.0.1 up1.tj.u2.ucweb.com
-127.0.0.1 wap3.ucweb.com
 127.0.0.1 up4.ucweb.com
 127.0.0.1 uc9.ucweb.com
 127.0.0.1 uc.ucweb.com
@@ -484,6 +484,8 @@
 127.0.0.1 ms.vipstatic.com
 127.0.0.1 crm-eve.b2b.alibaba-inc.com
 127.0.0.1 eclick.360doc.com
+127.0.0.1 img.findqc.com
+127.0.0.1 show.findqc.com
 127.0.0.1 p.sdu8cvc.com
 127.0.0.1 imgc.cymzc.com
 127.0.0.1 imgp.cymzc.com
@@ -515,7 +517,6 @@
 127.0.0.1 lm.souid.com
 127.0.0.1 nv.souid.com
 127.0.0.1 www.souid.com
-127.0.0.1 c-nfa.jd.com
 127.0.0.1 gia.jd.com
 127.0.0.1 jrclick.jd.com
 127.0.0.1 stat.m.jd.com
@@ -693,11 +694,13 @@
 127.0.0.1 2.letvlive.com
 127.0.0.1 sync.ipredictive.com
 127.0.0.1 mpb1.iteye.com
+127.0.0.1 rabc1.iteye.com
 127.0.0.1 cee1.iteye.com
 127.0.0.1 mpb2.iteye.com
 127.0.0.1 cee2.iteye.com
 127.0.0.1 ad.vryeye.com
 127.0.0.1 30350f.com
+127.0.0.1 k.hdjxmf.com
 127.0.0.1 adm.265g.com
 127.0.0.1 t.trafmag.com
 127.0.0.1 notify.bugsnag.com
@@ -765,6 +768,7 @@
 127.0.0.1 breeze.olclient.baofeng.com
 127.0.0.1 data.danmu.baofeng.com
 127.0.0.1 static.danmu.baofeng.com
+127.0.0.1 soft.jiegeng.com
 127.0.0.1 c.bxb.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 img-ad.oupeng.com
@@ -808,6 +812,7 @@
 127.0.0.1 m.ishangtong.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 s1.milkjpg.com
+127.0.0.1 s3m.milkjpg.com
 127.0.0.1 top.h.qhmsg.com
 127.0.0.1 fkbwtoopwg.com
 127.0.0.1 maxwebsearch.com
@@ -854,6 +859,7 @@
 127.0.0.1 click.cheshi.com
 127.0.0.1 pv.cheshi.com
 127.0.0.1 m.qulishi.com
+127.0.0.1 jc.buerchaoshi.com
 127.0.0.1 fd.anzhi.com
 127.0.0.1 pv.anzhi.com
 127.0.0.1 stat.zbii.com
@@ -938,7 +944,6 @@
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
-127.0.0.1 store.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 ifacelog.iqiyi.com
@@ -1146,6 +1151,7 @@
 127.0.0.1 webtrends.yccdn.com
 127.0.0.1 velocecdn.com
 127.0.0.1 pix.tagcdn.com
+127.0.0.1 static.baixingcdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 alimama.alicdn.com
 127.0.0.1 asearch.alicdn.com
@@ -1160,6 +1166,7 @@
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 ced.sascdn.com
+127.0.0.1 www.nkscdn.com
 127.0.0.1 superfastcdn.com
 127.0.0.1 dl.wan.sogoucdn.com
 127.0.0.1 galaxy.sogoucdn.com
@@ -1204,6 +1211,7 @@
 127.0.0.1 pic.jdunion.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 dsp.adfarm1.adition.com
+127.0.0.1 jc.bubbleandyeson.com
 127.0.0.1 ads1.msn.com
 127.0.0.1 a.ads1.msn.com
 127.0.0.1 b.ads1.msn.com
@@ -1381,6 +1389,7 @@
 127.0.0.1 tran.news.so.com
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
+127.0.0.1 nadscdn.wuaiso.com
 127.0.0.1 gg2.51cto.com
 127.0.0.1 gg3.51cto.com
 127.0.0.1 gg.51cto.com
@@ -1396,6 +1405,9 @@
 127.0.0.1 itaoxiaoshuo.com
 127.0.0.1 api.itaoxiaoshuo.com
 127.0.0.1 rpnews.itaoxiaoshuo.com
+127.0.0.1 www.jschuangnuo.com
+127.0.0.1 e.izouo.com
+127.0.0.1 m.izouo.com
 127.0.0.1 yuanchengxiezuo.com
 127.0.0.1 www.yuanchengxiezuo.com
 127.0.0.1 g.koowo.com
@@ -1543,6 +1555,7 @@
 127.0.0.1 loadm.exelator.com
 127.0.0.1 www.webdissector.com
 127.0.0.1 e.wdiur.com
+127.0.0.1 m.wdiur.com
 127.0.0.1 act2.mediafour.com
 127.0.0.1 85058s.com
 127.0.0.1 upd.faronicslabs.com
@@ -1825,6 +1838,7 @@
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 ipengtai.huanqiu.com
 127.0.0.1 boardx.huanqiu.com
+127.0.0.1 boardy.huanqiu.com
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 src.leju.com
 127.0.0.1 tongji.leju.com
@@ -1932,6 +1946,7 @@
 127.0.0.1 www.aihuishou.com
 127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 sdksitter.m.sjzhushou.com
+127.0.0.1 xyzhs.yicixingjinkou.com
 127.0.0.1 tjlog.easou.com
 127.0.0.1 adm.easou.com
 127.0.0.1 tjlog.ps.easou.com
@@ -2044,6 +2059,7 @@
 127.0.0.1 static.wkanx.com
 127.0.0.1 cm.adgrx.com
 127.0.0.1 jwpltx.com
+127.0.0.1 img.yqgytx.com
 127.0.0.1 a.fengyx.com
 127.0.0.1 shili.wanyx.com
 127.0.0.1 zhzzx.com
@@ -2164,7 +2180,6 @@
 127.0.0.1 woodpecker.uc.cn
 127.0.0.1 wy.ce22d.cn
 127.0.0.1 xc.macd.cn
-127.0.0.1 m.uczzd.cn
 127.0.0.1 anhm.acv5e.cn
 127.0.0.1 ads.ce.cn
 127.0.0.1 s.xcfe.cn
@@ -2217,6 +2232,7 @@
 127.0.0.1 d.elong.cn
 127.0.0.1 404.safedog.cn
 127.0.0.1 ad.funshion.org.cn
+127.0.0.1 fbzm.pqnlorg.cn
 127.0.0.1 13yg.cn
 127.0.0.1 click.linktech.cn
 127.0.0.1 marketing.etouch.cn
@@ -2232,6 +2248,8 @@
 127.0.0.1 acc.maimai.cn
 127.0.0.1 sdkm.w.inmobi.cn
 127.0.0.1 au.w.inmobi.cn
+127.0.0.1 ekfe.idanmei.cn
+127.0.0.1 kdf.jssumei.cn
 127.0.0.1 jiaoben.ganji.cn
 127.0.0.1 wuliao.ganji.cn
 127.0.0.1 parking.zunmi.cn
@@ -2508,6 +2526,7 @@
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 promote.biz.weibo.cn
 127.0.0.1 a-m-s.poco.cn
+127.0.0.1 img.helpinfo.cn
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 c.kuwo.cn
 127.0.0.1 mobilead.kuwo.cn
@@ -2573,6 +2592,8 @@
 127.0.0.1 track.molitv.cn
 127.0.0.1 download3.123cw.cn
 127.0.0.1 download.123cw.cn
+127.0.0.1 t.pzclw.cn
+127.0.0.1 y.pzclw.cn
 127.0.0.1 ad.gmw.cn
 127.0.0.1 g.mnw.cn
 127.0.0.1 stats.magicwindow.cn
@@ -2610,6 +2631,7 @@
 127.0.0.1 match.prod.bidr.io
 127.0.0.1 i.ssix.io
 127.0.0.1 sync.1rx.io
+127.0.0.1 ooo.0o0.ooo
 127.0.0.1 ca.clcknads.pro
 127.0.0.1 mrw.so
 127.0.0.1 xj40666.vip
