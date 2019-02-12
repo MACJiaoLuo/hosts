@@ -157,7 +157,7 @@
 127.0.0.1 static.adult.xyz
 127.0.0.1 zo.ee
 127.0.0.1 7839e0482307b9276b.com
-127.0.0.1 cdn.jsdelivr.net
+#！127.0.0.1 cdn.jsdelivr.net
 127.0.0.1 fkbwtoopwg.com
 127.0.0.1 x7xirtzmot.com
 127.0.0.1 mtrcss.com
