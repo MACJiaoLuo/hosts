@@ -1,4 +1,4 @@
-## version：2019-03-11 15:30:55
+## version：2019-03-11 16:59:52
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -3261,6 +3261,7 @@
 127.0.0.1 recreativ.ru
 127.0.0.1 track.recreativ.ru
 127.0.0.1 mc.yandex.ru
+::1 mc.yandex.ru
 127.0.0.1 an.yandex.ru
 127.0.0.1 www.inoprosport.su
 127.0.0.1 sync.extend.tv
