@@ -1,4 +1,4 @@
-## version：2019-03-11 16:59:52
+## version：2019-03-11 18:41:28
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -799,6 +799,7 @@
 127.0.0.1 wb.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 baidu-union-js.chuimg.com
+::1 video.twimg.com
 127.0.0.1 mf01.zybang.com
 127.0.0.1 bu01.zybang.com
 127.0.0.1 mf02.zybang.com

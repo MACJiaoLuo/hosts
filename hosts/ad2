@@ -190,7 +190,6 @@
 127.0.0.1 cdnondemand.org
 127.0.0.1 dolohen.com
 127.0.0.1 tharbadir.com
-::1 mc.yandex.ru
 #hpjav.com
 127.0.0.1 static.exosrv.com
 127.0.0.1 ads.exosrv.com
@@ -239,4 +238,10 @@
 # Fb
 127.0.0.1 connect.facebook.net
 127.0.0.1 graph.facebook.com
+
+###
+#ipv6
+::1 video.twimg.com
+::1 mc.yandex.ru
+
 

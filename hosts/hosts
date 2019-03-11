@@ -1,4 +1,4 @@
-## version：2019-03-11 16:59:52
+## version：2019-03-11 18:41:28
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -7224,7 +7224,6 @@
 127.0.0.1 cdnondemand.org
 127.0.0.1 dolohen.com
 127.0.0.1 tharbadir.com
-::1 mc.yandex.ru
 127.0.0.1 static.exosrv.com
 127.0.0.1 main.exosrv.com
 127.0.0.1 engine.spotscenered.info
@@ -7252,5 +7251,7 @@
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 connect.facebook.net
 127.0.0.1 graph.facebook.com
+::1 video.twimg.com
+::1 mc.yandex.ru
 127.0.0.1 localhost
 ::1 localhost
