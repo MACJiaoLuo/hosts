@@ -240,6 +240,11 @@
 127.0.0.1 connect.facebook.net
 127.0.0.1 graph.facebook.com
 
+#jianshu
+127.0.0.1 pic.bdyxzx.com
+127.0.0.1 clk.bdyxzx.com
+127.0.0.1 api.bdyxzx.com
+
 ###
 #ipv6
 ::1 video.twimg.com

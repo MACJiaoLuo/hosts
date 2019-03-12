@@ -1,4 +1,4 @@
-## version：2019-03-11 18:41:28
+## version：2019-03-12 20:12:42
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -2360,6 +2360,19 @@
 127.0.0.1 photo.backerbiotech.cn
 127.0.0.1 photo.hebhec.cn
 127.0.0.1 qi.wndlkj.com
+127.0.0.1 cwzx.dengfenzhang.cn
+127.0.0.1 e.vchiy.com
+127.0.0.1 e.xroun.com
+127.0.0.1 j3.dthznc.com
+127.0.0.1 kign.biluzhang.cn
+127.0.0.1 ldk.ruiyufangchan.cn
+127.0.0.1 m.exusr.com
+127.0.0.1 m.gcaih.com
+127.0.0.1 m.iangs.com
+127.0.0.1 m.pquea.com
+127.0.0.1 m.vchiy.com
+127.0.0.1 m.xroun.com
+127.0.0.1 www.gdlbdzkj.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
@@ -6688,6 +6701,7 @@
 127.0.0.1 load77.exelator.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 sync.crwdcntrl.net
+127.0.0.1 server.exposebox.com
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 code.hot-mob.com
 127.0.0.1 rad.reporo.net
@@ -7224,6 +7238,7 @@
 127.0.0.1 cdnondemand.org
 127.0.0.1 dolohen.com
 127.0.0.1 tharbadir.com
+127.0.0.1 koapsooh.click
 127.0.0.1 static.exosrv.com
 127.0.0.1 main.exosrv.com
 127.0.0.1 engine.spotscenered.info
@@ -7251,6 +7266,9 @@
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 connect.facebook.net
 127.0.0.1 graph.facebook.com
+127.0.0.1 pic.bdyxzx.com
+127.0.0.1 clk.bdyxzx.com
+127.0.0.1 api.bdyxzx.com
 ::1 video.twimg.com
 ::1 mc.yandex.ru
 127.0.0.1 localhost
