@@ -1,4 +1,4 @@
-## version：2019-03-14 15:30:54
+## version：2019-03-15 02:43:14
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -7271,8 +7271,8 @@
 127.0.0.1 pic.bdyxzx.com
 127.0.0.1 clk.bdyxzx.com
 127.0.0.1 api.bdyxzx.com
+127.0.0.1 localhost
+::1 localhost
 ::1 video.twimg.com
 ::1 mc.yandex.ru
 ::1 jsc.mgid.com
-127.0.0.1 localhost
-::1 localhost

@@ -196,8 +196,8 @@
 
 #hpjav.com
 127.0.0.1 static.exosrv.com
-127.0.0.1 ads.exosrv.com
-127.0.0.1 syndication.exosrv.com
+#127.0.0.1 ads.exosrv.com
+#127.0.0.1 syndication.exosrv.com
 127.0.0.1 main.exosrv.com
 127.0.0.1 engine.spotscenered.info
 #kissjav.com
@@ -222,10 +222,10 @@
 
 #cili
 127.0.0.1 k.dpjszs.com
-127.0.0.1 k.xmtsyg.com
+#127.0.0.1 k.xmtsyg.com
 127.0.0.1 jc.beijinglvyou.net.cn
 127.0.0.1 i.jhwj88.com
-127.0.0.1 m.181mob.com
+#127.0.0.1 m.181mob.com
 
 
 #mi
@@ -237,7 +237,7 @@
 
 #google
 127.0.0.1 imasdk.googleapis.com
-127.0.0.1 adservice.google.com.hk
+#127.0.0.1 adservice.google.com.hk
 
 # Fb
 127.0.0.1 connect.facebook.net
@@ -247,11 +247,4 @@
 127.0.0.1 pic.bdyxzx.com
 127.0.0.1 clk.bdyxzx.com
 127.0.0.1 api.bdyxzx.com
-
-###
-#ipv6
-::1 video.twimg.com
-::1 mc.yandex.ru
-::1 jsc.mgid.com
-
 

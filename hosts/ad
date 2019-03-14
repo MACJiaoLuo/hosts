@@ -1,5 +1,6 @@
-## version：2019-03-14 15:30:54
+
 #url=https://github.com/vokins/yhosts/
+## version：2019-03-15 02:43:14
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
 127.0.0.1 sync-dsp.ad-m.asia
@@ -3243,6 +3244,8 @@
 127.0.0.1 ssl-cdn.media.innity.net
 127.0.0.1 cdn.innity.net
 127.0.0.1 pxl.connexity.net
+127.0.0.1 localhost
+::1 localhost
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 static.bepolite.eu
 127.0.0.1 serving.bepolite.eu
