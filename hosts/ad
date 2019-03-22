@@ -1,4 +1,4 @@
-## version：2019-03-21 03:20:38
+## version：2019-03-22 21:43:14
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -1702,6 +1702,7 @@
 127.0.0.1 ad.naver.com
 127.0.0.1 adcreative.naver.com
 127.0.0.1 adcr.naver.com
+127.0.0.1 stunninglover.com
 127.0.0.1 www.bitsumactivationserver.com
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
@@ -3251,6 +3252,7 @@
 127.0.0.1 gwiq.globalwebindex.net
 127.0.0.1 st.targetix.net
 127.0.0.1 t.cnsjx.net
+127.0.0.1 ad.ettoday.net
 127.0.0.1 flurry.cachefly.net
 127.0.0.1 ad-delivery.net
 127.0.0.1 cdn.media.innity.net
