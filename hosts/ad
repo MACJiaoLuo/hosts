@@ -1,4 +1,4 @@
-## version：2019-03-22 21:43:14
+## version：2019-03-25 02:56:53
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -781,6 +781,7 @@
 127.0.0.1 k.hdjxmf.com
 127.0.0.1 m.ecenf.com
 127.0.0.1 m.djunf.com
+127.0.0.1 m.dgouf.com
 127.0.0.1 adm.265g.com
 127.0.0.1 ssl.youkag.com
 127.0.0.1 t.trafmag.com
@@ -881,6 +882,7 @@
 127.0.0.1 adspaces.ero-advertising.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 sync.adaptv.advertising.com
+127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ad.1ting.com
 127.0.0.1 ads.creative-serving.com
 127.0.0.1 g.x.cn.majorserving.com
@@ -923,6 +925,7 @@
 127.0.0.1 img.cmm.xmfish.com
 127.0.0.1 gg.ptfish.com
 127.0.0.1 m.gcouh.com
+127.0.0.1 m.ggouh.com
 127.0.0.1 down.winbaicai.com
 127.0.0.1 www.winbaicai.com
 127.0.0.1 t.geedai.com
@@ -1340,6 +1343,9 @@
 127.0.0.1 cnn.dyn.cnn.com
 127.0.0.1 gdyn.cnn.com
 127.0.0.1 metrics.cnn.com
+127.0.0.1 e.fxunn.com
+127.0.0.1 m.fxunn.com
+127.0.0.1 m.fgaon.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
@@ -1518,11 +1524,13 @@
 127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
 127.0.0.1 udc.yahoo.com
+127.0.0.1 onemobile.yahoo.com
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 p3p.yahoo.com
+127.0.0.1 yap.yahoo.com
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 pr.ybp.yahoo.com
@@ -1703,6 +1711,7 @@
 127.0.0.1 adcreative.naver.com
 127.0.0.1 adcr.naver.com
 127.0.0.1 stunninglover.com
+::1 stunninglover.com
 127.0.0.1 www.bitsumactivationserver.com
 127.0.0.1 adsunflower.com
 127.0.0.1 bigdata.adsunflower.com
@@ -2017,6 +2026,8 @@
 127.0.0.1 888.tv.sohu.com
 127.0.0.1 api.danmu.tv.sohu.com
 127.0.0.1 vstat.my.tv.sohu.com
+127.0.0.1 e.rcaiu.com
+127.0.0.1 m.rcaiu.com
 127.0.0.1 e.kfeiu.com
 127.0.0.1 m.kfeiu.com
 127.0.0.1 21.huanqiu.com
@@ -2272,6 +2283,7 @@
 127.0.0.1 hot.eastday.com
 127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 offline-adv.oray.com
+127.0.0.1 m.vhuay.com
 127.0.0.1 e.vkuay.com
 127.0.0.1 m.vkuay.com
 127.0.0.1 in.jghcy.com
@@ -2313,6 +2325,8 @@
 127.0.0.1 ad.cacafly.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 static.addtoany.com
+127.0.0.1 e.vpeny.com
+127.0.0.1 m.vpeny.com
 127.0.0.1 ads.playboy.com
 127.0.0.1 pei-ads.playboy.com
 127.0.0.1 gamead.swjoy.com
@@ -2404,6 +2418,7 @@
 127.0.0.1 photo.hebhec.cn
 127.0.0.1 txstatic.cn
 127.0.0.1 q.ihgmc.cn
+127.0.0.1 wxas.ejwmc.cn
 127.0.0.1 dodi.86zhnc.cn
 127.0.0.1 app.fdwdqc.cn
 127.0.0.1 m.2fnrc.cn
@@ -2490,6 +2505,7 @@
 127.0.0.1 hyuj.gmxyorg.cn
 127.0.0.1 13yg.cn
 127.0.0.1 hxfu.nz53h.cn
+127.0.0.1 m.i05h.cn
 127.0.0.1 vikg.mpp9h.cn
 127.0.0.1 click.linktech.cn
 127.0.0.1 photo.backerbiotech.cn
