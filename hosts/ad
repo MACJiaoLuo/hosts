@@ -1,4 +1,4 @@
-## version：2019-03-26 23:10:43
+## version：2019-03-30 13:11:47
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -709,6 +709,7 @@
 127.0.0.1 activation.phaseone.com
 127.0.0.1 e.sbaoe.com
 127.0.0.1 m.sbaoe.com
+127.0.0.1 m.stuoe.com
 127.0.0.1 c.zheare.com
 127.0.0.1 platform.wondershare.com
 127.0.0.1 macplatform.wondershare.com
@@ -915,6 +916,7 @@
 127.0.0.1 ads.feelingtouch.com
 127.0.0.1 s20dh7e9dh.com
 127.0.0.1 m.gcaih.com
+127.0.0.1 m.sdaih.com
 127.0.0.1 m.gdeih.com
 127.0.0.1 cdn.iclicash.com
 127.0.0.1 rcv.iclicash.com
@@ -1109,12 +1111,14 @@
 127.0.0.1 jack.okkkk.com
 127.0.0.1 inclk.com
 127.0.0.1 p215223.inclk.com
+127.0.0.1 m.jpenk.com
 127.0.0.1 activation.cyberlink.com
 127.0.0.1 cap.cyberlink.com
 127.0.0.1 ns.jasnk.com
 127.0.0.1 xiazai.downok.com
 127.0.0.1 graph.facebook.com
 127.0.0.1 tcad.wedolook.com
+127.0.0.1 m.jkuok.com
 127.0.0.1 m.hzuok.com
 127.0.0.1 5y9nfpes.52pk.com
 127.0.0.1 market.52pk.com
@@ -1315,6 +1319,7 @@
 127.0.0.1 ad2.udn.com
 127.0.0.1 ad3.udn.com
 127.0.0.1 ad4.udn.com
+127.0.0.1 www.renminben.com
 127.0.0.1 downlaod.xiaocen.com
 127.0.0.1 dolohen.com
 127.0.0.1 bodelen.com
@@ -1344,6 +1349,7 @@
 127.0.0.1 cnn.dyn.cnn.com
 127.0.0.1 gdyn.cnn.com
 127.0.0.1 metrics.cnn.com
+127.0.0.1 m.xkunn.com
 127.0.0.1 e.fxunn.com
 127.0.0.1 m.fxunn.com
 127.0.0.1 m.fgaon.com
@@ -1517,6 +1523,8 @@
 127.0.0.1 icon.cnmo.com
 127.0.0.1 js.cnmo.com
 127.0.0.1 stat.cnmo.com
+127.0.0.1 e.yfano.com
+127.0.0.1 m.yfano.com
 127.0.0.1 e.fdaoo.com
 127.0.0.1 m.fdaoo.com
 127.0.0.1 stat.vccoo.com
@@ -1605,6 +1613,7 @@
 127.0.0.1 stats.wp.com
 127.0.0.1 24200.h5ixp.com
 127.0.0.1 a.yiyuancq.com
+127.0.0.1 www.jshonghuadq.com
 127.0.0.1 www.fffeeeq.com
 127.0.0.1 sync.intentiq.com
 127.0.0.1 omgmta1.qq.com
@@ -1804,6 +1813,9 @@
 127.0.0.1 log.umsns.com
 127.0.0.1 e.ijuns.com
 127.0.0.1 m.ijuns.com
+127.0.0.1 m.aquns.com
+127.0.0.1 e.izaos.com
+127.0.0.1 m.izaos.com
 127.0.0.1 www.k3bos.com
 127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
@@ -1943,6 +1955,7 @@
 127.0.0.1 c.silvinst.com
 127.0.0.1 pixel-a.sitescout.com
 127.0.0.1 notify.51dzt.com
+127.0.0.1 e.rjiau.com
 127.0.0.1 vebadu.com
 127.0.0.1 a.baidu.com
 127.0.0.1 hmma.baidu.com
@@ -2490,6 +2503,7 @@
 127.0.0.1 cwzx.dengfenzhang.cn
 127.0.0.1 kign.biluzhang.cn
 127.0.0.1 usuf.candukang.cn
+127.0.0.1 yxrp.lianfuhuang.cn
 127.0.0.1 4336wang.cn
 127.0.0.1 tj.jinyuewang.cn
 127.0.0.1 photo.boweineng.cn
@@ -2548,6 +2562,7 @@
 127.0.0.1 jzdn.talk-hk.cn
 127.0.0.1 m.msuik.cn
 127.0.0.1 cfdac.8g0ymk.cn
+127.0.0.1 photo.domainrank.cn
 127.0.0.1 cb.lomark.cn
 127.0.0.1 rm.lomark.cn
 127.0.0.1 reply.lomark.cn
@@ -2955,6 +2970,9 @@
 127.0.0.1 green.erne.co
 127.0.0.1 api.mlinks.co
 127.0.0.1 cc.st123.info
+127.0.0.1 template.liusha.info
+127.0.0.1 log.liusha.info
+127.0.0.1 statistics.liusha.info
 127.0.0.1 cdn.puata.info
 127.0.0.1 ex.puata.info
 127.0.0.1 engine.spotscenered.info

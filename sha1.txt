@@ -1,4 +1,4 @@
-SHA1(/tmp/dnsmasq/union.conf)= 5e7ad83bd35259efb28c138c0ecba018dbdd94a0
+SHA1(/tmp/dnsmasq/union.conf)= 8c3921bbf1409573f2bea5f8f25681bd9e438ee4
 SHA1(/tmp/dnsmasq/ip.conf)= de8b82870001ba11534d019894ce3911e93fbf74
 SHA1(/tmp/dnsmasq/ad.conf)= 42a1e1bf3556ead00367b6ad42fa20c636093144
 SHA1(/tmp/dnsmasq/dnsfq.conf)= c3c874118ff26366fb57cf1e8cb38d8cd7254eb2
@@ -18,7 +18,7 @@ SHA1(/tmp/s/sr2)= ae4c0c4b3ee2df4d8a09286b77835cbb9d2d373f
 SHA1(/tmp/s/sr3)= deca335cfa1195b66f9aba75c831702aca9b1b83
 SHA1(/tmp/s/c)= 57b1fb2662edcfa9f3d0eac32c53c8b4147366e4
 SHA1(/tmp/hosts/f)= 13b915e7176a389561cc984947c8dc23d612dd88
-SHA1(/tmp/hosts/ad)= 5928c01da7c497c9dd55f3c041d753bb5477c34f
+SHA1(/tmp/hosts/ad)= 06037205ef87c3b5a2f9a83291c00ced31256221
 SHA1(/tmp/hosts/ad2)= 0ea30464da15238e58fdd74fb93805156d98a2c6
 SHA1(/tmp/hosts/f2)= fcd8de5b6c670af106c83bfe06525229e9e5e34f
-SHA1(/tmp/hosts/hosts)= 9a33b2e18129215b9370a9bb962ecd1ab53c9638
+SHA1(/tmp/hosts/hosts)= 153c6f9eb8e1a68223c799898d9064b560072bba
