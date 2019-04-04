@@ -1,23 +1,23 @@
-# //【2019-04-04 12:18:07】
+# //【2019-04-04 12:21:59】
 SHA1(/tmp/invalid.txt)= dcca86bf3908b76bee56992f05cb616de39514e7
 SHA1(/tmp/resolv.conf)= 51799df644d057ccbb0406a44df3b7ebe1ebf7a0
 SHA1(/tmp/dnsmasq/dnsfq.conf)= bd8299fb7deb2994e5efd6762130a299a7b37c99
 SHA1(/tmp/dnsmasq/union.conf)= c138b63f61dab5c00c152396e72d64438454abaa
 SHA1(/tmp/dnsmasq/ad.conf)= bd4ae801603e81a7ae01dff72a1c50bab81ffef6
 SHA1(/tmp/dnsmasq/ip.conf)= de8b82870001ba11534d019894ce3911e93fbf74
-SHA1(/tmp/s/f2)= a3b20c3a7275b20eab68fb5da21a4a2f4d5b45ba
-SHA1(/tmp/s/x)= a9edc7b3cbd3b4ba906f8c16131527bacb30b31f
-SHA1(/tmp/s/v)= 924d10ead9b7dbea53ab466553d5db219dd83342
-SHA1(/tmp/s/sr3)= 2ceb2e945fe1918c868aee2cfcace20c9781ef96
-SHA1(/tmp/s/sr1)= 8b634dcfd12c5501ac5ed73b0704eeeb26663d11
-SHA1(/tmp/s/sr2)= 7c3acfd692353cf4d69e3a1571b0c803fefef177
-SHA1(/tmp/s/c)= cd8f7a3f1f6879f80ecae596525cda5ebf3a1eba
+SHA1(/tmp/s/f2)= 121518214259c818941d6a1f9751f1a7e97cd7b5
+SHA1(/tmp/s/x)= b6848383df712b038f0140cab959e0ee80b60910
+SHA1(/tmp/s/v)= 68535137c99044ddeaa4d3f6e506ec4e3da69d02
+SHA1(/tmp/s/sr3)= 7ca8c48cbb360e9df7cdf3de82e685fb5c988977
+SHA1(/tmp/s/sr1)= d70edb4a02f58b888eb44efb95d615f78f002b22
+SHA1(/tmp/s/sr2)= e6a610b0d3953bf290a84bd2525076044041da3d
+SHA1(/tmp/s/c)= 848aa5b763abcdd1f3089133eee16b0ee450a191
 SHA1(/tmp/s/s2)= ba9b1c8ce770612f2732cc5d4a0256cd20924817
-SHA1(/tmp/s/a)= 8fcb98ecca90c5ef3cd85bd88aa8ddfc2fefbfa6
-SHA1(/tmp/s/s)= febc8c526b52910813feac44d3bfdfcda836ef6a
-SHA1(/tmp/s/f3)= cfeb9ef545e7d802dd9966793340c4a27cf4566e
-SHA1(/tmp/s/f1)= 42635ca983335c5b8843b1909877578823a15c10
-SHA1(/tmp/p)= 3612aa6558ab2c8806c44e3958d3dbcfd9573ab8
+SHA1(/tmp/s/a)= 314b9c5ee3ce0079beefce1745a0b625a2a10c80
+SHA1(/tmp/s/s)= 8e738bc3e15f8aef27d1b81f8af84936e23c7def
+SHA1(/tmp/s/f3)= f8d2373cb9ac628c3675d71304970622f52e4493
+SHA1(/tmp/s/f1)= ad533e40497c027dd570a9d8819fb80d45ce53b6
+SHA1(/tmp/p)= ac179527829d94d1c864f7b13bf8b26dce5c6c9a
 SHA1(/tmp/hosts/f2)= fcd8de5b6c670af106c83bfe06525229e9e5e34f
 SHA1(/tmp/hosts/ad)= 092c552537f420af542750e9ff03a595dca02db6
 SHA1(/tmp/hosts/ad2)= 0ea30464da15238e58fdd74fb93805156d98a2c6
