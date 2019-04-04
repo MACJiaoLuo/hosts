@@ -1,4 +1,4 @@
-## version：2019-03-30 13:11:47
+## version：2019-04-04 11:25:05
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -115,6 +115,7 @@
 127.0.0.1 img.dawenxue.org
 127.0.0.1 c.xznykf.org
 127.0.0.1 xs.searchacg.org
+127.0.0.1 www.qiubang.org
 127.0.0.1 c.xianguonongchang.org
 127.0.0.1 img1.pszyzxh.org
 127.0.0.1 c.zxyywdj.org
@@ -273,6 +274,7 @@
 127.0.0.1 shouji.yd126.com
 127.0.0.1 www.yd126.com
 127.0.0.1 312036.com
+127.0.0.1 x.12381236.com
 127.0.0.1 uod2quk646.com
 127.0.0.1 api.rees46.com
 127.0.0.1 cdn.danmu.56.com
@@ -528,7 +530,6 @@
 127.0.0.1 paopao3.qiyipic.com
 127.0.0.1 ae.bdstatic.com
 127.0.0.1 mipcache.bdstatic.com
-127.0.0.1 s.bdstatic.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 adpublish.ydstatic.com
@@ -536,6 +537,8 @@
 127.0.0.1 cdn.dragonstatic.com
 127.0.0.1 ms.vipstatic.com
 127.0.0.1 js.flpjc.com
+127.0.0.1 e.hdanc.com
+127.0.0.1 m.hdanc.com
 127.0.0.1 crm-eve.b2b.alibaba-inc.com
 127.0.0.1 j3.dthznc.com
 127.0.0.1 eclick.360doc.com
@@ -662,6 +665,8 @@
 127.0.0.1 d2.yiche.com
 127.0.0.1 www.baihe.com
 127.0.0.1 ads.vipbaihe.com
+127.0.0.1 e.ppaie.com
+127.0.0.1 m.ppaie.com
 127.0.0.1 yun.tuisnake.com
 127.0.0.1 res.ipingke.com
 127.0.0.1 ehd.baike.com
@@ -738,6 +743,7 @@
 127.0.0.1 mpp.vindicosuite.com
 127.0.0.1 s.jlminte.com
 127.0.0.1 fans.bestvogue.com
+127.0.0.1 m.scoue.com
 127.0.0.1 m.wsoue.com
 127.0.0.1 m.haishuxue.com
 127.0.0.1 img.ad.zhangyue.com
@@ -777,11 +783,14 @@
 127.0.0.1 v7.shaoyumuye.com
 127.0.0.1 30350f.com
 127.0.0.1 keqi7dh3df.com
+127.0.0.1 e.vcaif.com
 127.0.0.1 zouwie.mlhif.com
 127.0.0.1 ssh.hxlif.com
 127.0.0.1 k.hdjxmf.com
 127.0.0.1 m.ecenf.com
 127.0.0.1 m.djunf.com
+127.0.0.1 e.vbaof.com
+127.0.0.1 m.vbaof.com
 127.0.0.1 m.dgouf.com
 127.0.0.1 adm.265g.com
 127.0.0.1 ssl.youkag.com
@@ -917,6 +926,7 @@
 127.0.0.1 s20dh7e9dh.com
 127.0.0.1 m.gcaih.com
 127.0.0.1 m.sdaih.com
+127.0.0.1 m.gtaih.com
 127.0.0.1 m.gdeih.com
 127.0.0.1 cdn.iclicash.com
 127.0.0.1 rcv.iclicash.com
@@ -927,6 +937,7 @@
 127.0.0.1 img.cmm.xmfish.com
 127.0.0.1 gg.ptfish.com
 127.0.0.1 m.gcouh.com
+127.0.0.1 m.sfouh.com
 127.0.0.1 e.ggouh.com
 127.0.0.1 m.ggouh.com
 127.0.0.1 down.winbaicai.com
@@ -1099,6 +1110,7 @@
 127.0.0.1 md.1drj.com
 127.0.0.1 xs.1drj.com
 127.0.0.1 8.jrj.com
+127.0.0.1 mob10.cqjktj.com
 127.0.0.1 ggg.zj.com
 127.0.0.1 tdntrack.com
 127.0.0.1 bttrack.com
@@ -1107,6 +1119,7 @@
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 www8.xitek.com
 127.0.0.1 ad.unimhk.com
+127.0.0.1 m.jcaik.com
 127.0.0.1 rosi.okkkk.com
 127.0.0.1 jack.okkkk.com
 127.0.0.1 inclk.com
@@ -1132,6 +1145,7 @@
 127.0.0.1 ax.120ask.com
 127.0.0.1 service.ad.adesk.com
 127.0.0.1 pix.impdesk.com
+127.0.0.1 pic.poklytk.com
 127.0.0.1 a.jjqyk.com
 127.0.0.1 adx.adxglobal.com
 127.0.0.1 api.appodeal.com
@@ -1179,6 +1193,7 @@
 127.0.0.1 www.202m.com
 127.0.0.1 cx.v5cam.com
 127.0.0.1 static.g.ppstream.com
+127.0.0.1 e.ohuam.com
 127.0.0.1 ad2.yam.com
 127.0.0.1 admd.yam.com
 127.0.0.1 analytics.yam.com
@@ -1228,6 +1243,7 @@
 127.0.0.1 a4.ikafan.com
 127.0.0.1 api.aixifan.com
 127.0.0.1 ssp.chaohutechan.com
+127.0.0.1 exter.weilanshan.com
 127.0.0.1 mlb.did.ijinshan.com
 127.0.0.1 andmlbf.tj.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
@@ -1525,6 +1541,7 @@
 127.0.0.1 stat.cnmo.com
 127.0.0.1 e.yfano.com
 127.0.0.1 m.yfano.com
+127.0.0.1 m.yceno.com
 127.0.0.1 e.fdaoo.com
 127.0.0.1 m.fdaoo.com
 127.0.0.1 stat.vccoo.com
@@ -1732,6 +1749,7 @@
 127.0.0.1 ads.betfair.com
 127.0.0.1 tharbadir.com
 127.0.0.1 ad.hiiir.com
+127.0.0.1 wnek.xvyLjkr.com
 127.0.0.1 ls.srvcs.tumblr.com
 127.0.0.1 e.epanr.com
 127.0.0.1 m.epanr.com
@@ -1740,6 +1758,7 @@
 127.0.0.1 www.webdissector.com
 127.0.0.1 m.vcuor.com
 127.0.0.1 m.exusr.com
+127.0.0.1 aper.zhfosenghtr.com
 127.0.0.1 e.wdiur.com
 127.0.0.1 m.wdiur.com
 127.0.0.1 act2.mediafour.com
@@ -1887,6 +1906,16 @@
 127.0.0.1 s.cdn.u17t.com
 127.0.0.1 www.2345at.com
 127.0.0.1 ut2.shuqistat.com
+127.0.0.1 gxb.mmstat.com
+127.0.0.1 ac.mmstat.com
+127.0.0.1 gm.mmstat.com
+127.0.0.1 go.mmstat.com
+127.0.0.1 wgo.mmstat.com
+127.0.0.1 p3p.mmstat.com
+127.0.0.1 res.mmstat.com
+127.0.0.1 yt.mmstat.com
+127.0.0.1 hz.mmstat.com
+127.0.0.1 cnzz.mmstat.com
 127.0.0.1 dc.meitustat.com
 127.0.0.1 mdc.meitustat.com
 127.0.0.1 rabbit.meitustat.com
@@ -1895,6 +1924,8 @@
 127.0.0.1 download.mediaget.com
 127.0.0.1 ld.mediaget.com
 127.0.0.1 stjzh.gdtarget.com
+127.0.0.1 e.fshet.com
+127.0.0.1 m.fshet.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 rp.gwallet.com
 127.0.0.1 inside.bitcomet.com
@@ -1966,7 +1997,6 @@
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 unionimage.baidu.com
 127.0.0.1 release.baidu.com
-127.0.0.1 msite.baidu.com
 127.0.0.1 g.baidu.com
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 wangmeng.baidu.com
@@ -2043,6 +2073,7 @@
 127.0.0.1 vstat.my.tv.sohu.com
 127.0.0.1 e.rcaiu.com
 127.0.0.1 m.rcaiu.com
+127.0.0.1 m.khaiu.com
 127.0.0.1 e.kfeiu.com
 127.0.0.1 m.kfeiu.com
 127.0.0.1 21.huanqiu.com
@@ -2342,6 +2373,7 @@
 127.0.0.1 static.addtoany.com
 127.0.0.1 e.vpeny.com
 127.0.0.1 m.vpeny.com
+127.0.0.1 e.ijuny.com
 127.0.0.1 ads.playboy.com
 127.0.0.1 pei-ads.playboy.com
 127.0.0.1 gamead.swjoy.com
@@ -2368,6 +2400,8 @@
 127.0.0.1 dpvchos.qqyy.com
 127.0.0.1 stats.chinaz.com
 127.0.0.1 jc.jtydbz.com
+127.0.0.1 m.llvez.com
+127.0.0.1 m.lpaoz.com
 127.0.0.1 conf.xiniuz.com
 127.0.0.1 www.xiniuz.com
 127.0.0.1 g1.08160.cn
@@ -2464,8 +2498,10 @@
 127.0.0.1 www.adsage.cn
 127.0.0.1 adf.dahe.cn
 127.0.0.1 yun.sifuhe.cn
+127.0.0.1 sizd.chengboke.cn
 127.0.0.1 mcore.vcgame.cn
 127.0.0.1 log.vcgame.cn
+127.0.0.1 rcynoe.cn
 127.0.0.1 mathtype.cn
 127.0.0.1 xia.mathtype.cn
 127.0.0.1 www.mathtype.cn
@@ -2855,6 +2891,7 @@
 127.0.0.1 log.kuwo.cn
 127.0.0.1 rich.kuwo.cn
 127.0.0.1 webstat.kuwo.cn
+127.0.0.1 bgkh.zcpap.cn
 127.0.0.1 iconworkshop.cn
 127.0.0.1 www.iconworkshop.cn
 127.0.0.1 parallelsdesktop.cn
@@ -2872,6 +2909,7 @@
 127.0.0.1 ggdata1.cnr.cn
 127.0.0.1 d1.cnr.cn
 127.0.0.1 adsame1.cnr.cn
+127.0.0.1 image.upages.cn
 127.0.0.1 tl.zcsfs.cn
 127.0.0.1 ia.ctags.cn
 127.0.0.1 psptoolapi.ctags.cn
@@ -2921,6 +2959,7 @@
 127.0.0.1 afpcreative.wasu.cn
 127.0.0.1 collector.wasu.cn
 127.0.0.1 delivery.wasu.cn
+127.0.0.1 ehdj.njguluyu.cn
 127.0.0.1 ss.symav.cn
 127.0.0.1 m.frjxdv.cn
 127.0.0.1 log.tv.moliv.cn
@@ -2946,6 +2985,7 @@
 127.0.0.1 f1.p0y.cn
 127.0.0.1 f2.p0y.cn
 127.0.0.1 fm.p0y.cn
+127.0.0.1 pong.fccay.cn
 127.0.0.1 api2.play.cn
 127.0.0.1 open.play.cn
 127.0.0.1 m.lglady.cn
