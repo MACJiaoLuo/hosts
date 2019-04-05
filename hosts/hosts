@@ -1,4 +1,4 @@
-## version：2019-04-04 11:25:05
+## version：2019-04-05 02:28:02
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -7247,9 +7247,6 @@
 127.0.0.1 js-cdn.dynatrace.com
 127.0.0.1 gwiq.globalwebindex.net
 127.0.0.1 edigitalsurvey.com
-127.0.0.1 track.hk01.com
-127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
-127.0.0.1 notify.bugsnag.com
 127.0.0.1 gwiqcdn.globalwebindex.net
 127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 nav.files.bbci.co.uk
@@ -7272,10 +7269,6 @@
 127.0.0.1 udarem.com
 127.0.0.1 api.ts.feedback.71.am
 127.0.0.1 api.node4.ts.feedback.71.am
-127.0.0.1 i.kpzip.com
-127.0.0.1 download.glzip.cn
-127.0.0.1 bundle.kpzip.com
-127.0.0.1 tips.kpzip.com
 127.0.0.1 hubt.pornhub.com
 127.0.0.1 cdn.adpixo.com
 127.0.0.1 jwpltx.com
@@ -7322,6 +7315,7 @@
 127.0.0.1 aiwhebey.com
 127.0.0.1 ad.pornimg.xyz
 127.0.0.1 stunninglover.com
+127.0.0.1 xghfi97mk6.com
 127.0.0.1 static.exosrv.com
 127.0.0.1 main.exosrv.com
 127.0.0.1 engine.spotscenered.info
@@ -7346,7 +7340,6 @@
 127.0.0.1 i.jhwj88.com
 127.0.0.1 api.sec.miui.com
 127.0.0.1 push1.hicloud.com
-127.0.0.1 imasdk.googleapis.com
 127.0.0.1 connect.facebook.net
 127.0.0.1 graph.facebook.com
 127.0.0.1 pic.bdyxzx.com
