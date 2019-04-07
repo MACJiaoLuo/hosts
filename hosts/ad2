@@ -76,20 +76,15 @@
 127.0.0.1 sg3.beap.gemini.yahoo.com
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 radar.cedexis.com
-#tumblr
-127.0.0.1 ls.srvcs.tumblr.com
-
 
 #   tx
 127.0.0.1 android.bugly.qq.com
 
 #@      BT
 #btdb
-127.0.0.1 superfastcdn.com
+
 
 #@      NEW
-#duan
-127.0.0.1 p.typekit.net
 #bbc
 127.0.0.1 sa.bbc.co.uk
 127.0.0.1 js-cdn.dynatrace.com
@@ -217,7 +212,6 @@
 127.0.0.1 jc.beijinglvyou.net.cn
 127.0.0.1 i.jhwj88.com
 #127.0.0.1 m.181mob.com
-
 
 #mi
 #+127.0.0.1 sdkconfig.ad.intl.xiaomi.com

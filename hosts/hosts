@@ -1,4 +1,4 @@
-## version：2019-04-05 02:28:02
+## version：2019-04-07 16:11:03
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -7239,10 +7239,7 @@
 127.0.0.1 sg3.beap.gemini.yahoo.com
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 radar.cedexis.com
-127.0.0.1 ls.srvcs.tumblr.com
 127.0.0.1 android.bugly.qq.com
-127.0.0.1 superfastcdn.com
-127.0.0.1 p.typekit.net
 127.0.0.1 sa.bbc.co.uk
 127.0.0.1 js-cdn.dynatrace.com
 127.0.0.1 gwiq.globalwebindex.net
@@ -7354,3 +7351,5 @@
 ::1 mc.yandex.ru
 ::1 jsc.mgid.com
 ::1 stunninglover.com
+::1 www.cf55.cf
+104.20.20.20 www.cf55.cf

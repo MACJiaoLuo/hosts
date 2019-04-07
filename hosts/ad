@@ -1,6 +1,5 @@
-## version：2019-04-05 12:28:02
+## version：2019-04-07 16:11:03
 #url=https://github.com/vokins/yhosts/
-104.20.20.20 www.cf55.cf
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
 127.0.0.1 sync-dsp.ad-m.asia
@@ -102,6 +101,8 @@
 127.0.0.1 dn-growing.qbox.me
 127.0.0.1 boostads.site
 127.0.0.1 gg.amblrgg.live
+104.20.20.20 www.cf55.cf
+::1 www.cf55.cf
 127.0.0.1 www.2016bobo.cf
 127.0.0.1 u6.gg
 127.0.0.1 xhtd.99hg.wang
@@ -1326,7 +1327,6 @@
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 ced.sascdn.com
 127.0.0.1 www.nkscdn.com
-127.0.0.1 superfastcdn.com
 127.0.0.1 dl.wan.sogoucdn.com
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 ue.yeyoucdn.com
@@ -1750,7 +1750,6 @@
 127.0.0.1 tharbadir.com
 127.0.0.1 ad.hiiir.com
 127.0.0.1 wnek.xvyLjkr.com
-127.0.0.1 ls.srvcs.tumblr.com
 127.0.0.1 e.epanr.com
 127.0.0.1 m.epanr.com
 127.0.0.1 load77.exelator.com
@@ -3275,7 +3274,6 @@
 127.0.0.1 p8u.hinet.net
 127.0.0.1 ads.fetnet.net
 127.0.0.1 ad.pixnet.net
-127.0.0.1 p.typekit.net
 127.0.0.1 c.easypatent.net
 127.0.0.1 m.easypatent.net
 127.0.0.1 www.acint.net
