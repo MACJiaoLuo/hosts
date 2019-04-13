@@ -1,4 +1,4 @@
-## version：2019-04-07 23:10:04
+## version：2019-04-14 00:13:50
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -19,6 +19,13 @@
 127.0.0.1 trial.alcohol-soft.com
 127.0.0.1 licenses.ashampoo.com
 127.0.0.1 activation.phaseone.com
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 sws.corel.com
+127.0.0.1 dam.corel.com
 127.0.0.1 dbregistration.cuteftp.com
 127.0.0.1 activation.cyberlink.com
 127.0.0.1 cap.cyberlink.com
@@ -36,8 +43,6 @@
 127.0.0.1 binaryage-leechgate.herokuapp.com
 127.0.0.1 updates-s3.binaryage.com
 127.0.0.1 cbs.wondershare.com
-127.0.0.1 macplatform.wondershare.com
-127.0.0.1 platform.wondershare.com
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 img3.126.net
@@ -2051,6 +2056,40 @@
 127.0.0.1 img.dajibai.com
 127.0.0.1 m.vnanf.com
 127.0.0.1 www.kaitoupiao.com
+127.0.0.1 e.uksnyf.cn
+127.0.0.1 iwvo.bym03.cn
+127.0.0.1 m.ybfwmm.cn
+127.0.0.1 zxod.b54ah.cn
+127.0.0.1 e.ozwqxi.cn
+127.0.0.1 m.kuptmf.cn
+127.0.0.1 m.iygqhe.cn
+127.0.0.1 e.zvfuka.cn
+127.0.0.1 m.iyuey.com
+127.0.0.1 m.zvfuka.cn
+127.0.0.1 www.gggwwwe.com
+127.0.0.1 mfkn.71mxc6.cn
+127.0.0.1 ydlz.k859n.cn
+127.0.0.1 e.2st5ne.cn
+127.0.0.1 e.v48bna.cn
+127.0.0.1 jfot.e647ob.cn
+127.0.0.1 jj.198dh.cn
+127.0.0.1 www.cccwwwr.com
+127.0.0.1 x.jullycn.com
+127.0.0.1 h.wpjly.cn
+127.0.0.1 www.coolyi.com
+127.0.0.1 m.ifeib.com
+127.0.0.1 m.imykgs.com
+127.0.0.1 m.ogeigs.com
+127.0.0.1 s.mlion.cn
+127.0.0.1 m.egqiyw.com
+127.0.0.1 m.iqasgw.com
+127.0.0.1 m.tfeic.com
+127.0.0.1 m.tdiac.com
+127.0.0.1 m.ckaim.com
+127.0.0.1 m.siwyom.com
+127.0.0.1 m.cgoiiq.com
+127.0.0.1 m.ceyiuy.com
+127.0.0.1 m.iygeoy.com
 127.0.0.1 m.llaoz.com
 127.0.0.1 m.lfouz.com
 127.0.0.1 m.dbaof.com
@@ -2800,6 +2839,9 @@
 127.0.0.1 bu01.zybang.com
 127.0.0.1 bu02.zybang.com
 127.0.0.1 img.zuoyebang.cc
+127.0.0.1 wm.makeding.com
+127.0.0.1 xiazai.pdfexpert.cc
+127.0.0.1 xiazai.crossoverchina.com
 127.0.0.1 mindmanager.cc
 127.0.0.1 www.bingdianhuanyuan.cn
 127.0.0.1 xia.bingdianhuanyuan.cn
@@ -2807,7 +2849,6 @@
 127.0.0.1 www.iconworkshop.cn
 127.0.0.1 iconworkshop.cn
 127.0.0.1 www.pdfexpert.cc
-127.0.0.1 xiazai.pdfexpert.cc
 127.0.0.1 www.zhzzx.com
 127.0.0.1 www.4009997658.com
 127.0.0.1 4009997658.com
@@ -2819,7 +2860,6 @@
 127.0.0.1 mairuan.com.cn
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
-127.0.0.1 wm.makeding.com
 127.0.0.1 www.ntfsformac.cc
 127.0.0.1 www.makeding.com
 127.0.0.1 makeding.com
