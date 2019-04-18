@@ -1,4 +1,4 @@
-## version：2019-04-14 00:13:50
+## version：2019-04-19 03:19:17
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -271,6 +271,7 @@
 127.0.0.1 a6.hn985.com
 127.0.0.1 m.495495.com
 127.0.0.1 wwww.495495.com
+127.0.0.1 r01.g1c5.com
 127.0.0.1 hao916.com
 127.0.0.1 data.yd126.com
 127.0.0.1 shouji.yd126.com
@@ -336,6 +337,7 @@
 127.0.0.1 jc.4006825178.com
 127.0.0.1 js.autoyou1678.com
 127.0.0.1 xpj8088.com
+127.0.0.1 m.jc9388.com
 127.0.0.1 match.p4p.1688.com
 127.0.0.1 xpjkf888.com
 127.0.0.1 m.laxienian888.com
@@ -905,6 +907,7 @@
 127.0.0.1 html.fsxinling.com
 127.0.0.1 ssac.suning.com
 127.0.0.1 dfp.suning.com
+127.0.0.1 jimg.jisuoping.com
 127.0.0.1 cps.yaoqing.com
 127.0.0.1 adspaces.ero-advertising.com
 127.0.0.1 pixel.advertising.com
@@ -936,6 +939,7 @@
 127.0.0.1 s1.milkjpg.com
 127.0.0.1 s3m.milkjpg.com
 127.0.0.1 top.h.qhmsg.com
+127.0.0.1 m.cioysg.com
 127.0.0.1 fkbwtoopwg.com
 127.0.0.1 t.arrows-hitech.com
 127.0.0.1 maxwebsearch.com
@@ -962,6 +966,7 @@
 127.0.0.1 www.winbaicai.com
 127.0.0.1 t.geedai.com
 127.0.0.1 suedai.com
+127.0.0.1 vvv.lunqudai.com
 127.0.0.1 m.gjiai.com
 127.0.0.1 duomai.com
 127.0.0.1 c.duomai.com
@@ -1609,6 +1614,7 @@
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
 127.0.0.1 nadscdn.wuaiso.com
+127.0.0.1 nads.wuaiso.com
 127.0.0.1 gg2.51cto.com
 127.0.0.1 gg3.51cto.com
 127.0.0.1 gg.51cto.com
@@ -2457,6 +2463,7 @@
 127.0.0.1 conf.xiniuz.com
 127.0.0.1 www.xiniuz.com
 127.0.0.1 m.lfouz.com
+127.0.0.1 vj.tianji520.cn
 127.0.0.1 g1.08160.cn
 127.0.0.1 ssp.08160.cn
 127.0.0.1 huid.ad.360.cn
@@ -2559,6 +2566,7 @@
 127.0.0.1 www.ntfsformac.cn
 127.0.0.1 a.slsbc.cn
 127.0.0.1 photo.hebhec.cn
+127.0.0.1 e.tspric.cn
 127.0.0.1 txstatic.cn
 127.0.0.1 q.ihgmc.cn
 127.0.0.1 wxas.ejwmc.cn
@@ -2583,6 +2591,7 @@
 127.0.0.1 wy.ce22d.cn
 127.0.0.1 xc.macd.cn
 127.0.0.1 dee.uzyid.cn
+127.0.0.1 oldk.gtifund.cn
 127.0.0.1 yacafrr.bailingcloud.cn
 127.0.0.1 anhm.acv5e.cn
 127.0.0.1 ads.ce.cn
@@ -2594,12 +2603,14 @@
 127.0.0.1 config.adsage.cn
 127.0.0.1 www.adsage.cn
 127.0.0.1 adf.dahe.cn
+127.0.0.1 e.iygqhe.cn
 127.0.0.1 m.iygqhe.cn
 127.0.0.1 yun.sifuhe.cn
 127.0.0.1 sizd.chengboke.cn
 127.0.0.1 photo.789ble.cn
 127.0.0.1 mcore.vcgame.cn
 127.0.0.1 log.vcgame.cn
+127.0.0.1 k.gsdhome.cn
 127.0.0.1 e.2st5ne.cn
 127.0.0.1 rcynoe.cn
 127.0.0.1 mathtype.cn
@@ -3004,6 +3015,7 @@
 127.0.0.1 webstat.kuwo.cn
 127.0.0.1 bgkh.zcpap.cn
 127.0.0.1 ekfe.tmmjgcp.cn
+127.0.0.1 tfy.sswip.cn
 127.0.0.1 iconworkshop.cn
 127.0.0.1 www.iconworkshop.cn
 127.0.0.1 parallelsdesktop.cn
@@ -3013,6 +3025,7 @@
 127.0.0.1 adsys.chinacloudapp.cn
 127.0.0.1 eng.liveapp.cn
 127.0.0.1 open.liveapp.cn
+127.0.0.1 s.dbojetp.cn
 127.0.0.1 m.m72r.cn
 127.0.0.1 imgad.thepaper.cn
 127.0.0.1 adpai.thepaper.cn
@@ -3088,6 +3101,7 @@
 127.0.0.1 ssl86.pjshw.cn
 127.0.0.1 t.pzclw.cn
 127.0.0.1 y.pzclw.cn
+127.0.0.1 i.xdywlw.cn
 127.0.0.1 ad.gmw.cn
 127.0.0.1 g.mnw.cn
 127.0.0.1 stats.magicwindow.cn
@@ -3209,6 +3223,7 @@
 127.0.0.1 android.push.126.net
 127.0.0.1 news.push.126.net
 127.0.0.1 m.analytics.126.net
+127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 analytics.ws.126.net
 127.0.0.1 webstat.ws.126.net
 127.0.0.1 www.i1236.net

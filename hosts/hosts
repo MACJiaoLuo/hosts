@@ -1,4 +1,4 @@
-## version：2019-04-14 00:13:50
+## version：2019-04-19 03:19:17
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -47,6 +47,7 @@
 127.0.0.1 img2.126.net
 127.0.0.1 img3.126.net
 127.0.0.1 pimg1.126.net
+127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 webstat.ws.126.net
 127.0.0.1 analytics.163.com
 127.0.0.1 e-p4p.163.com
@@ -2077,6 +2078,23 @@
 127.0.0.1 x.jullycn.com
 127.0.0.1 h.wpjly.cn
 127.0.0.1 www.coolyi.com
+127.0.0.1 k.gsdhome.cn
+127.0.0.1 i.xdywlw.cn
+127.0.0.1 r01.g1c5.com
+127.0.0.1 renren2.maoyun.tv
+127.0.0.1 e.iygqhe.cn
+127.0.0.1 e.tspric.cn
+127.0.0.1 m.jc9388.com
+127.0.0.1 oldk.gtifund.cn
+127.0.0.1 tfy.sswip.cn
+127.0.0.1 ad.wang502.com
+127.0.0.1 pb.wang502.com
+127.0.0.1 jimg.jisuoping.com
+127.0.0.1 nads.wuaiso.com
+127.0.0.1 s.dbojetp.cn
+127.0.0.1 vj.tianji520.cn
+127.0.0.1 vvv.lunqudai.com
+127.0.0.1 m.cioysg.com
 127.0.0.1 m.ifeib.com
 127.0.0.1 m.imykgs.com
 127.0.0.1 m.ogeigs.com
@@ -3273,7 +3291,6 @@
 127.0.0.1 ad.lqalm.com
 127.0.0.1 ad.stsywl.com
 127.0.0.1 ad.tatatimes.com
-127.0.0.1 ad.wang502.com
 127.0.0.1 adeaz.com
 127.0.0.1 adimg.bbcss.com
 127.0.0.1 adrunnr.com
@@ -4451,7 +4468,6 @@
 127.0.0.1 pay.holaq.com
 127.0.0.1 pb.funshion.net.cn
 127.0.0.1 pb.sys.pp8.com
-127.0.0.1 pb.wang502.com
 127.0.0.1 pb1.qujishu.com
 127.0.0.1 pb2.qujishu.com
 127.0.0.1 pc.107788.com
@@ -4518,7 +4534,6 @@
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rchs.1mb034.cn
 127.0.0.1 ref.12365chia.com
-127.0.0.1 renren2.maoyun.tv
 127.0.0.1 rfir2.50w.me
 127.0.0.1 rh.code.jjyx.com
 127.0.0.1 rh.greenbetterkids.com
