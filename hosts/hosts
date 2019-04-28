@@ -1,4 +1,4 @@
-## version：2019-04-27 16:39:07
+## version：2019-04-29 06:44:01
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -7365,9 +7365,9 @@
 127.0.0.1 js-cdn.dynatrace.com
 127.0.0.1 gwiq.globalwebindex.net
 127.0.0.1 edigitalsurvey.com
-127.0.0.1 gwiqcdn.globalwebindex.net
 127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 nav.files.bbci.co.uk
+127.0.0.1 gwiqcdn.globalwebindex.net
 127.0.0.1 onclickmega.com
 127.0.0.1 z6naousb.com
 127.0.0.1 cdn.popcash.net
@@ -7460,9 +7460,6 @@
 127.0.0.1 paid.outbrain.com
 127.0.0.1 schema.org
 127.0.0.1 ad.yieldmanager.com
-127.0.0.1 k.dpjszs.com
-127.0.0.1 jc.beijinglvyou.net.cn
-127.0.0.1 i.jhwj88.com
 127.0.0.1 api.sec.miui.com
 127.0.0.1 push1.hicloud.com
 127.0.0.1 connect.facebook.net
@@ -7477,4 +7474,3 @@
 ::1 jsc.mgid.com
 ::1 stunninglover.com
 ::1 adqy6rzwcs.com
-104.20.20.20 www.cf55.cf

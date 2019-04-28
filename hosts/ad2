@@ -90,12 +90,11 @@
 127.0.0.1 js-cdn.dynatrace.com
 127.0.0.1 gwiq.globalwebindex.net
 127.0.0.1 edigitalsurvey.com
-#nytime
-127.0.0.1 gwiqcdn.globalwebindex.net
-#bbc
 127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 nav.files.bbci.co.uk
- 
+#nyt
+127.0.0.1 gwiqcdn.globalwebindex.net
+
 
 #@     pan
 #dropapk.com
@@ -214,10 +213,6 @@
 127.0.0.1 ad.yieldmanager.com
 
 #cili
-127.0.0.1 k.dpjszs.com
-#127.0.0.1 k.xmtsyg.com
-127.0.0.1 jc.beijinglvyou.net.cn
-127.0.0.1 i.jhwj88.com
 
 
 #mi
