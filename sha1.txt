@@ -1,4 +1,4 @@
-# //【2019-05-29 21:44:41】
+# //【2019-05-29 21:52:35】
 SHA1(/tmp/s/f2)= 9940974d5f8e9aeb3232d21d5585d003cc538142
 SHA1(/tmp/s/s)= a787d1bf7c5b6fd197e622f8913021eb8c5c1152
 SHA1(/tmp/s/f1)= 158c8d835db4bd59844c20e2e4096444e5356919
@@ -22,4 +22,4 @@ SHA1(/tmp/dnsmasq/union.conf)= 229490f5295788318ccb01a427e1ca1358689f06
 SHA1(/tmp/dnsmasq/ad.conf)= b7d0fa3939c0f4e85621cc4ede6102c8d5d59596
 SHA1(/tmp/dnsmasq/dnsfq.conf)= 89d7a7774d4c2e8000c227970c634db4fc9e8d98
 SHA1(/tmp/dnsmasq/ip.conf)= de8b82870001ba11534d019894ce3911e93fbf74
-SHA1(/tmp/p)= 1b7c0fd908086b8ae2a77016df62e2b3a55edca9
+SHA1(/tmp/p)= 950225ad7c637d1def6159c54fb6d83cfdfcb2ac
