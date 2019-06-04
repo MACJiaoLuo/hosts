@@ -1,4 +1,4 @@
-## version：2019-06-03 04:15:41
+## version：2019-06-05 03:18:30
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -113,6 +113,7 @@
 127.0.0.1 schema.org
 127.0.0.1 jrpt.jrptweb.org
 127.0.0.1 cdnondemand.org
+104.20.20.20 get.pixelexperience.org
 127.0.0.1 ow.s1.shuhuangge.org
 127.0.0.1 ow.s2.shuhuangge.org
 127.0.0.1 a.m.shuhuangge.org
