@@ -1,4 +1,4 @@
-## version：2019-06-05 03:18:30
+## version：2019-06-18 04:12:24
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -93,6 +93,7 @@
 127.0.0.1 zo.ee
 127.0.0.1 u51.me
 127.0.0.1 0x5.me
+127.0.0.1 tz.70e.me
 127.0.0.1 uee.me
 127.0.0.1 ggle.lywf.me
 127.0.0.1 sod.onelink.me
@@ -102,6 +103,7 @@
 127.0.0.1 weq.me
 127.0.0.1 rfir2.50w.me
 127.0.0.1 dn-growing.qbox.me
+127.0.0.1 go.kshks5.site
 127.0.0.1 js.aerhr224a.site
 127.0.0.1 boostads.site
 127.0.0.1 js.jaat3ax.site
@@ -586,6 +588,7 @@
 127.0.0.1 e.hzuic.com
 127.0.0.1 m.hzuic.com
 127.0.0.1 js.flpjc.com
+127.0.0.1 www.kkdsdlc.com
 127.0.0.1 e.hdanc.com
 127.0.0.1 m.hdanc.com
 127.0.0.1 crm-eve.b2b.alibaba-inc.com
@@ -774,6 +777,7 @@
 127.0.0.1 imgad0.3conline.com
 127.0.0.1 jwz.3conline.com
 127.0.0.1 activation.phaseone.com
+127.0.0.1 www.isitone.com
 127.0.0.1 e.sbaoe.com
 127.0.0.1 m.sbaoe.com
 127.0.0.1 m.stuoe.com
@@ -902,6 +906,7 @@
 127.0.0.1 clickn.fang.com
 127.0.0.1 countpvn.light.fang.com
 127.0.0.1 mshow.fang.com
+127.0.0.1 ssl2.gdqifang.com
 127.0.0.1 s3.chengmingliang.com
 127.0.0.1 api.bailingjiankang.com
 127.0.0.1 m.bailingjiankang.com
@@ -1332,6 +1337,7 @@
 127.0.0.1 slides.discovery.tom.com
 127.0.0.1 m.siwyom.com
 127.0.0.1 www.vidcpm.com
+127.0.0.1 license.piriform.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ads.cyberctm.com
 127.0.0.1 go.padstm.com
@@ -1628,6 +1634,7 @@
 127.0.0.1 biz.weibo.com
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 c.wcpt.biz.weibo.com
+127.0.0.1 m.jinhuizhibo.com
 127.0.0.1 ads.globo.com
 127.0.0.1 mlog.hiido.com
 127.0.0.1 ylog.hiido.com
@@ -2009,6 +2016,7 @@
 127.0.0.1 xc.mydrivers.com
 127.0.0.1 icons.mydrivers.com
 127.0.0.1 mtrcss.com
+127.0.0.1 ssl2.dottexpress.com
 127.0.0.1 c.kuaituisss.com
 127.0.0.1 vista.tgbus.com
 127.0.0.1 tracker.tgbus.com
@@ -2124,10 +2132,6 @@
 127.0.0.1 notify.51dzt.com
 127.0.0.1 e.rjiau.com
 127.0.0.1 vebadu.com
-127.0.0.1 gsp0.baidu.com
-127.0.0.1 gsp1.baidu.com
-127.0.0.1 gsp2.baidu.com
-127.0.0.1 gsp3.baidu.com
 127.0.0.1 a.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 cb.baidu.com
@@ -2162,8 +2166,6 @@
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 adscdn.baidu.com
-127.0.0.1 fc3tn.baidu.com
-127.0.0.1 fc5tn.baidu.com
 127.0.0.1 river.zhidao.baidu.com
 127.0.0.1 yingxiao.baidu.com
 127.0.0.1 wisepush.video.baidu.com
@@ -2674,9 +2676,12 @@
 127.0.0.1 m.448u79.cn
 127.0.0.1 k.cao86789.cn
 127.0.0.1 dps.499.cn
+127.0.0.1 photo.cjh9.cn
 127.0.0.1 h9p9.cn
 127.0.0.1 e.qj10b.cn
 127.0.0.1 m.qj10b.cn
+127.0.0.1 e.6g53b.cn
+127.0.0.1 m.6g53b.cn
 127.0.0.1 m.5d63b.cn
 127.0.0.1 m.fu64b.cn
 127.0.0.1 e.us8l5b.cn
@@ -2685,10 +2690,14 @@
 127.0.0.1 h.wr2t6b.cn
 127.0.0.1 m.ca88b.cn
 127.0.0.1 e.fdp29b.cn
+127.0.0.1 e.wc59b.cn
+127.0.0.1 m.wc59b.cn
+127.0.0.1 m.08jq9b.cn
 127.0.0.1 mldy.yxxgab.cn
 127.0.0.1 m.479db.cn
 127.0.0.1 e.5h9gdb.cn
 127.0.0.1 m.5h9gdb.cn
+127.0.0.1 m.07seb.cn
 127.0.0.1 photo.cxslchkb.cn
 127.0.0.1 jfot.e647ob.cn
 127.0.0.1 static.bmob.cn
@@ -2696,6 +2705,9 @@
 127.0.0.1 www.cmmob.cn
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
+127.0.0.1 8bq898.73miqb.cn
+127.0.0.1 e.35rqb.cn
+127.0.0.1 m.35rqb.cn
 127.0.0.1 e.l93stb.cn
 127.0.0.1 m.l93stb.cn
 127.0.0.1 mdrecv.app.cntvwb.cn
@@ -2709,8 +2721,14 @@
 127.0.0.1 e.w6o2c.cn
 127.0.0.1 m.w6o2c.cn
 127.0.0.1 m.q0uz4c.cn
+127.0.0.1 e.pt05c.cn
+127.0.0.1 m.pt05c.cn
+127.0.0.1 m.h24q5c.cn
 127.0.0.1 e.o5vm6c.cn
 127.0.0.1 m.o5vm6c.cn
+127.0.0.1 e.ki18c.cn
+127.0.0.1 m.ki18c.cn
+127.0.0.1 25w.0tzp8c.cn
 127.0.0.1 ntfsformac.cn
 127.0.0.1 xia.ntfsformac.cn
 127.0.0.1 www.ntfsformac.cn
@@ -2745,13 +2763,22 @@
 127.0.0.1 m.gnfpzc.cn
 127.0.0.1 m.qlr0d.cn
 127.0.0.1 wy.ce22d.cn
+127.0.0.1 4gf.9tkl2d.cn
 127.0.0.1 m.xt2d.cn
+127.0.0.1 m.6gv4d.cn
+127.0.0.1 m.43k5d.cn
+127.0.0.1 2mg898.jim86d.cn
+127.0.0.1 2mg.jim86d.cn
 127.0.0.1 xc.macd.cn
+127.0.0.1 jnm.o41qed.cn
+127.0.0.1 e.s76xid.cn
+127.0.0.1 m.s76xid.cn
 127.0.0.1 dee.uzyid.cn
 127.0.0.1 fdd.tianhuafund.cn
 127.0.0.1 oldk.gtifund.cn
 127.0.0.1 m.1x3td.cn
 127.0.0.1 yacafrr.bailingcloud.cn
+127.0.0.1 photo.njlymyd.cn
 127.0.0.1 m.vh92e.cn
 127.0.0.1 e.7ogh2e.cn
 127.0.0.1 anhm.acv5e.cn
@@ -2778,6 +2805,7 @@
 127.0.0.1 log.vcgame.cn
 127.0.0.1 k.gsdhome.cn
 127.0.0.1 e.2st5ne.cn
+127.0.0.1 jah.4py3oe.cn
 127.0.0.1 rcynoe.cn
 127.0.0.1 e.mw31pe.cn
 127.0.0.1 m.mw31pe.cn
@@ -2789,6 +2817,7 @@
 127.0.0.1 unipayupg.wostore.cn
 127.0.0.1 unipaydl.wostore.cn
 127.0.0.1 secpay.wostore.cn
+127.0.0.1 setqre.cn
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 fotacontrol.adfuture.cn
@@ -2803,9 +2832,16 @@
 127.0.0.1 m.9z41f.cn
 127.0.0.1 m.la71f.cn
 127.0.0.1 m.to9g1f.cn
+127.0.0.1 e.xm0t2f.cn
+127.0.0.1 m.xm0t2f.cn
+127.0.0.1 m.1p04f.cn
+127.0.0.1 e.1i94f.cn
+127.0.0.1 m.1i94f.cn
 127.0.0.1 m.ei4f.cn
 127.0.0.1 m.sz05f.cn
 127.0.0.1 qwe.tl875f.cn
+127.0.0.1 e.nq37f.cn
+127.0.0.1 m.nq37f.cn
 127.0.0.1 m.9r48f.cn
 127.0.0.1 m.7wx8f.cn
 127.0.0.1 m.mffcf.cn
@@ -2816,6 +2852,7 @@
 127.0.0.1 m.98tpof.cn
 127.0.0.1 e.ypzhwf.cn
 127.0.0.1 e.uksnyf.cn
+127.0.0.1 m.65r3g.cn
 127.0.0.1 e.s0o5g.cn
 127.0.0.1 m.s0o5g.cn
 127.0.0.1 e.0wnz6g.cn
@@ -2823,6 +2860,7 @@
 127.0.0.1 e.wj57g.cn
 127.0.0.1 ndrf.757g7g.cn
 127.0.0.1 ynud.heizundg.cn
+127.0.0.1 m.9n3ig.cn
 127.0.0.1 e.xeig.cn
 127.0.0.1 m.xeig.cn
 127.0.0.1 e.vpmjg.cn
@@ -2853,7 +2891,6 @@
 127.0.0.1 photo.boweineng.cn
 127.0.0.1 bad.maienyanjing.cn
 127.0.0.1 s.hoverming.cn
-127.0.0.1 click.suning.cn
 127.0.0.1 apm.suning.cn
 127.0.0.1 game.rising.cn
 127.0.0.1 wan.rising.cn
@@ -2868,11 +2905,15 @@
 127.0.0.1 fbzm.pqnlorg.cn
 127.0.0.1 hyuj.gmxyorg.cn
 127.0.0.1 e.38ursg.cn
+127.0.0.1 fgp.i8l7tg.cn
 127.0.0.1 m.x78tg.cn
+127.0.0.1 m.qh70wg.cn
 127.0.0.1 13yg.cn
+127.0.0.1 m.n83v0h.cn
 127.0.0.1 m.tv12h.cn
 127.0.0.1 hxfu.nz53h.cn
 127.0.0.1 m.i05h.cn
+127.0.0.1 m.96y5h.cn
 127.0.0.1 uwcu.0b6h.cn
 127.0.0.1 hemx.0n6h.cn
 127.0.0.1 m.5vst8h.cn
@@ -2883,6 +2924,7 @@
 127.0.0.1 marketing.etouch.cn
 127.0.0.1 jj.198dh.cn
 127.0.0.1 s.456jjh.cn
+127.0.0.1 m.srnoh.cn
 127.0.0.1 uzsrh.cn
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
@@ -2893,6 +2935,9 @@
 127.0.0.1 e.kzwsh.cn
 127.0.0.1 m.6i9th.cn
 127.0.0.1 12i.cn
+127.0.0.1 m.0vj6i.cn
+127.0.0.1 e.q047i.cn
+127.0.0.1 m.q047i.cn
 127.0.0.1 e.kwp79i.cn
 127.0.0.1 wodeai.cn
 127.0.0.1 maimai.cn
@@ -2914,11 +2959,13 @@
 127.0.0.1 ad.thsi.cn
 127.0.0.1 img.oraohui.cn
 127.0.0.1 aoooccc.lizhuizhui.cn
+127.0.0.1 m.61lvi.cn
 127.0.0.1 e.5qk4xi.cn
 127.0.0.1 e.ozwqxi.cn
 127.0.0.1 photo.hhmyi.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 e.80o4j.cn
+127.0.0.1 m.80o4j.cn
 127.0.0.1 m.y195j.cn
 127.0.0.1 m.xsk5j.cn
 127.0.0.1 e.6yw7j.cn
@@ -2929,7 +2976,11 @@
 127.0.0.1 pc.quansj.cn
 127.0.0.1 e.46kxj.cn
 127.0.0.1 oki.sxlczj.cn
+127.0.0.1 e.8p30k.cn
+127.0.0.1 m.8p30k.cn
 127.0.0.1 qkcl.o7z0k.cn
+127.0.0.1 m.4qn1k.cn
+127.0.0.1 m.1qp9k.cn
 127.0.0.1 static.apptrack.cn
 127.0.0.1 ads.ccstock.cn
 127.0.0.1 uxaz.fxnfk.cn
@@ -2937,11 +2988,13 @@
 127.0.0.1 m.msuik.cn
 127.0.0.1 cfdac.8g0ymk.cn
 127.0.0.1 photo.domainrank.cn
+127.0.0.1 m.v76rk.cn
 127.0.0.1 cb.lomark.cn
 127.0.0.1 rm.lomark.cn
 127.0.0.1 reply.lomark.cn
 127.0.0.1 xhnt.snqrk.cn
 127.0.0.1 dd.iask.cn
+127.0.0.1 m.97tuk.cn
 127.0.0.1 tbax.woyvk.cn
 127.0.0.1 vmjjzk.cn
 127.0.0.1 e.rp71l.cn
@@ -2951,14 +3004,18 @@
 127.0.0.1 un.52rkl.cn
 127.0.0.1 i.dreamfull.cn
 127.0.0.1 api.dreamfull.cn
+127.0.0.1 e.2v9ml.cn
+127.0.0.1 m.2v9ml.cn
 127.0.0.1 e.y23zpl.cn
 127.0.0.1 xhyd.uxyrl.cn
 127.0.0.1 cdn.img.liuxingyul.cn
 127.0.0.1 cdn.app.liuxingyul.cn
 127.0.0.1 photo.xxlywl.cn
+127.0.0.1 m.t528zl.cn
 127.0.0.1 pic.517m.cn
 127.0.0.1 e.yu3p7m.cn
 127.0.0.1 iiid.bluescream.cn
+127.0.0.1 photo.ytmaksim.cn
 127.0.0.1 vbje.linyankm.cn
 127.0.0.1 daa.shuzilm.cn
 127.0.0.1 dai.shuzilm.cn
@@ -3222,6 +3279,7 @@
 127.0.0.1 www2.xinmin.cn
 127.0.0.1 revive.outin.cn
 127.0.0.1 mad.m.maxthon.cn
+127.0.0.1 b.mlion.cn
 127.0.0.1 s.mlion.cn
 127.0.0.1 img.warron.cn
 127.0.0.1 photo.whwestern.cn
@@ -3237,6 +3295,8 @@
 127.0.0.1 rtlog.vidown.cn
 127.0.0.1 tj.vidown.cn
 127.0.0.1 vhec.jhjhyn.cn
+127.0.0.1 e.5pzs0o.cn
+127.0.0.1 m.5pzs0o.cn
 127.0.0.1 www.z8o.cn
 127.0.0.1 an.m.liebao.cn
 127.0.0.1 cms.an.m.liebao.cn
@@ -3271,12 +3331,14 @@
 127.0.0.1 m.le78p.cn
 127.0.0.1 bgkh.zcpap.cn
 127.0.0.1 ekfe.tmmjgcp.cn
+127.0.0.1 kkdm.dhgdp.cn
 127.0.0.1 dd1.freep.cn
 127.0.0.1 dd2.freep.cn
 127.0.0.1 tfy.sswip.cn
 127.0.0.1 iconworkshop.cn
 127.0.0.1 www.iconworkshop.cn
 127.0.0.1 static.sellbuyshop.cn
+127.0.0.1 netsop.cn
 127.0.0.1 parallelsdesktop.cn
 127.0.0.1 log.cs.pp.cn
 127.0.0.1 patriot.cs.pp.cn
@@ -3289,7 +3351,9 @@
 127.0.0.1 utma.ywpxp.cn
 127.0.0.1 img.86yp.cn
 127.0.0.1 hrcmzp.cn
+127.0.0.1 m.3r76q.cn
 127.0.0.1 xt.eh6q.cn
+127.0.0.1 m.cdfdfq.cn
 127.0.0.1 e.rgjrq.cn
 127.0.0.1 m.rgjrq.cn
 127.0.0.1 fdsq.vb4rvq.cn
@@ -3379,6 +3443,7 @@
 127.0.0.1 yfjq.a6ntv.cn
 127.0.0.1 download3.123cw.cn
 127.0.0.1 download.123cw.cn
+127.0.0.1 ieju.zgtwpscw.cn
 127.0.0.1 img.nktcw.cn
 127.0.0.1 ruskhw.cn
 127.0.0.1 ssl86.pjshw.cn
@@ -3424,6 +3489,7 @@
 127.0.0.1 ad.pixnet.in
 127.0.0.1 material.mtty.xin
 127.0.0.1 mtty-cdn.mtty.xin
+127.0.0.1 tejia.gaibang.fun
 127.0.0.1 spb.bid.run
 127.0.0.1 cdn.adsk2.co
 127.0.0.1 p215223.mycdn2.co

@@ -1,4 +1,4 @@
-# //【2019-06-17 22:49:09】
+# //【2019-06-18 04:13:31】
 SHA1(/tmp/s/f2)= 9940974d5f8e9aeb3232d21d5585d003cc538142
 SHA1(/tmp/s/s)= a787d1bf7c5b6fd197e622f8913021eb8c5c1152
 SHA1(/tmp/s/f1)= 158c8d835db4bd59844c20e2e4096444e5356919
@@ -14,12 +14,12 @@ SHA1(/tmp/s/sr2)= 93aeb913eeba667aef1aafb0389fc1555e5c3e0f
 SHA1(/tmp/resolv.conf)= 51799df644d057ccbb0406a44df3b7ebe1ebf7a0
 SHA1(/tmp/hosts/f2)= 3ab7da3f365c1db9310c38616e065eb2b763cbe5
 SHA1(/tmp/hosts/ad2)= 7e91a7ba5ca4d22770959f4a2fdf42487cee0e9b
-SHA1(/tmp/hosts/hosts)= 745493f906a28919b6c272c7777df0ffad245dda
+SHA1(/tmp/hosts/hosts)= a59b71fe5178bb923c3a3ee4a1af313a84d193ad
 SHA1(/tmp/hosts/f)= 13b915e7176a389561cc984947c8dc23d612dd88
-SHA1(/tmp/hosts/ad)= abe333b2e4f395a499cc3c046362e0972e28b3bd
+SHA1(/tmp/hosts/ad)= a394d114c7e27688bcf02881099eefebc0e4039c
 SHA1(/tmp/invalid.txt)= dcca86bf3908b76bee56992f05cb616de39514e7
-SHA1(/tmp/dnsmasq/union.conf)= bfafcdec55ec3a0c9fce87d48f1e12fd56121738
+SHA1(/tmp/dnsmasq/union.conf)= c7439216dbce8239dd174c124ac0ebbd2eff3bae
 SHA1(/tmp/dnsmasq/ad.conf)= b7d0fa3939c0f4e85621cc4ede6102c8d5d59596
-SHA1(/tmp/dnsmasq/dnsfq.conf)= 0d2f0fb7741adad5bc8fe7739b648b6672253b8c
+SHA1(/tmp/dnsmasq/dnsfq.conf)= 791fa519746136e6104bc97aef6773449bb0e4e4
 SHA1(/tmp/dnsmasq/ip.conf)= de8b82870001ba11534d019894ce3911e93fbf74
 SHA1(/tmp/p)= a154691f9e9eb565116de570cbded78c397e388b
