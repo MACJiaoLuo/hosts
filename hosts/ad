@@ -1,4 +1,4 @@
-## version：2019-06-21 03:04:24
+## version：2019-06-24 02:48:03
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -112,6 +112,7 @@
 127.0.0.1 u6.gg
 127.0.0.1 xhtd.99hg.wang
 127.0.0.1 url.3400.org
+127.0.0.1 www.kunjia.org
 127.0.0.1 schema.org
 127.0.0.1 jrpt.jrptweb.org
 127.0.0.1 cdnondemand.org
@@ -620,6 +621,7 @@
 127.0.0.1 tuos.kyouad.com
 127.0.0.1 www.4wad.com
 127.0.0.1 api.uniplayad.com
+127.0.0.1 dlres.ind9ed.com
 127.0.0.1 gaitheed.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 pixel.adsafeprotected.com
@@ -671,6 +673,7 @@
 127.0.0.1 tts.178ud.com
 127.0.0.1 feedback.whalecloud.com
 127.0.0.1 www.whalecloud.com
+127.0.0.1 fp-it.fengkongcloud.com
 127.0.0.1 push1.hicloud.com
 127.0.0.1 moren-1252794300.file.myqcloud.com
 127.0.0.1 cndjs-1251973891.coshk.myqcloud.com
@@ -854,6 +857,7 @@
 127.0.0.1 v7.shaoyumuye.com
 127.0.0.1 30350f.com
 127.0.0.1 keqi7dh3df.com
+127.0.0.1 eer.zhthf.com
 127.0.0.1 e.vcaif.com
 127.0.0.1 zouwie.mlhif.com
 127.0.0.1 ssh.hxlif.com
@@ -960,6 +964,7 @@
 127.0.0.1 wm.makeding.com
 127.0.0.1 www.makeding.com
 127.0.0.1 sams.nikonimaging.com
+127.0.0.1 2.92caijing.com
 127.0.0.1 930.dragonparking.com
 127.0.0.1 144.dragonparking.com
 127.0.0.1 track.dragonparking.com
@@ -1109,6 +1114,7 @@
 127.0.0.1 rubicon-match.dotomi.com
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 ad.shuoshuomi.com
+127.0.0.1 vvv.spahelani.com
 127.0.0.1 n.a.mosenni.com
 127.0.0.1 cdn.newapi.com
 127.0.0.1 logs.newapi.com
@@ -1185,6 +1191,7 @@
 127.0.0.1 e.yjiaj.com
 127.0.0.1 m.yjiaj.com
 127.0.0.1 gi.xi.gxabj.com
+127.0.0.1 cache.api-zdj.com
 127.0.0.1 e.xgaij.com
 127.0.0.1 m.xgaij.com
 127.0.0.1 www.4242jj.com
@@ -1653,6 +1660,8 @@
 127.0.0.1 adimages.go.com
 127.0.0.1 dcapps.disney.go.com
 127.0.0.1 streamango.com
+127.0.0.1 at1.doubanio.com
+127.0.0.1 at2.doubanio.com
 127.0.0.1 ad.doubanio.com
 127.0.0.1 img.scupio.com
 127.0.0.1 ads.cdn.rovio.com
@@ -1732,6 +1741,7 @@
 127.0.0.1 u.ctrip.com
 127.0.0.1 api.union.vip.com
 127.0.0.1 click.union.vip.com
+127.0.0.1 finewe.ljqnbiogjp.com
 127.0.0.1 d.wuylp.com
 127.0.0.1 setting.rayjump.com
 127.0.0.1 analytics.rayjump.com
@@ -1838,6 +1848,7 @@
 127.0.0.1 ad.ibookstar.com
 127.0.0.1 t.fatcatstar.com
 127.0.0.1 www.fatcatstar.com
+127.0.0.1 demo.xinqcr.com
 127.0.0.1 info.meihua.docer.com
 127.0.0.1 am.g.ireader.com
 127.0.0.1 cm.netseer.com
@@ -2669,6 +2680,7 @@
 127.0.0.1 photo.maimi88.cn
 127.0.0.1 y.btdc8.cn
 127.0.0.1 ahh8.cn
+127.0.0.1 m.4joon8.cn
 127.0.0.1 m.uhor8.cn
 127.0.0.1 rtnp.just9229.cn
 127.0.0.1 s.e739.cn
@@ -2696,6 +2708,8 @@
 127.0.0.1 e.fdp29b.cn
 127.0.0.1 e.wc59b.cn
 127.0.0.1 m.wc59b.cn
+127.0.0.1 e.1q89b.cn
+127.0.0.1 m.1q89b.cn
 127.0.0.1 m.08jq9b.cn
 127.0.0.1 mldy.yxxgab.cn
 127.0.0.1 m.479db.cn
@@ -2723,6 +2737,7 @@
 127.0.0.1 t.adbxb.cn
 127.0.0.1 e.21lxb.cn
 127.0.0.1 m.fy4zb.cn
+127.0.0.1 m.69o1c.cn
 127.0.0.1 e.w6o2c.cn
 127.0.0.1 m.w6o2c.cn
 127.0.0.1 m.q0uz4c.cn
@@ -2772,10 +2787,13 @@
 127.0.0.1 wy.ce22d.cn
 127.0.0.1 4gf.9tkl2d.cn
 127.0.0.1 m.xt2d.cn
+127.0.0.1 e.51t4d.cn
+127.0.0.1 m.51t4d.cn
 127.0.0.1 m.6gv4d.cn
 127.0.0.1 m.43k5d.cn
 127.0.0.1 2mg898.jim86d.cn
 127.0.0.1 2mg.jim86d.cn
+127.0.0.1 m.1sur6d.cn
 127.0.0.1 m.3t48d.cn
 127.0.0.1 xc.macd.cn
 127.0.0.1 jnm.o41qed.cn
@@ -2839,6 +2857,7 @@
 127.0.0.1 e.gtrve.cn
 127.0.0.1 diox.doowe.cn
 127.0.0.1 e.r5v3ye.cn
+127.0.0.1 mh1.zhengdongwuye.cn
 127.0.0.1 m.9z41f.cn
 127.0.0.1 m.la71f.cn
 127.0.0.1 m.to9g1f.cn
@@ -3337,6 +3356,7 @@
 127.0.0.1 a-m-s.poco.cn
 127.0.0.1 img.helpinfo.cn
 127.0.0.1 m.y7s6ro.cn
+127.0.0.1 e.958so.cn
 127.0.0.1 m.408uo.cn
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 c.kuwo.cn
@@ -3348,6 +3368,8 @@
 127.0.0.1 m.w720p.cn
 127.0.0.1 m.r507p.cn
 127.0.0.1 m.le78p.cn
+127.0.0.1 e.73z9p.cn
+127.0.0.1 m.73z9p.cn
 127.0.0.1 bgkh.zcpap.cn
 127.0.0.1 ekfe.tmmjgcp.cn
 127.0.0.1 kkdm.dhgdp.cn
@@ -3453,6 +3475,8 @@
 127.0.0.1 ehdj.njguluyu.cn
 127.0.0.1 ss.symav.cn
 127.0.0.1 m.frjxdv.cn
+127.0.0.1 e.eoeoev.cn
+127.0.0.1 m.eoeoev.cn
 127.0.0.1 log.tv.moliv.cn
 127.0.0.1 advapi.ahtv.cn
 127.0.0.1 log1.molitv.cn
@@ -3504,6 +3528,7 @@
 127.0.0.1 e.goodgz.cn
 127.0.0.1 xndjh.hebiz.cn
 127.0.0.1 m.kyxnz.cn
+127.0.0.1 m.ddttssz.cn
 127.0.0.1 aos-creative.prf.hn
 127.0.0.1 aos.prf.hn
 127.0.0.1 ad.pixnet.in
