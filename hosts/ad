@@ -1,4 +1,4 @@
-## version：2019-06-24 02:48:03
+## version：2019-06-26 01:28:32
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 snap.snapmobile.asia
@@ -513,7 +513,6 @@
 127.0.0.1 yun.yuyiya.com
 127.0.0.1 activity.yuyiya.com
 127.0.0.1 zzy.quyaoya.com
-127.0.0.1 p2p.huya.com
 127.0.0.1 p.yizuya.com
 127.0.0.1 u.yizuya.com
 127.0.0.1 2f3.555b2b.com
@@ -1482,6 +1481,7 @@
 127.0.0.1 gg.caixin.com
 127.0.0.1 apollo.caixin.com
 127.0.0.1 logstat.caixin.com
+127.0.0.1 ddf.shumayin.com
 127.0.0.1 customad.cnn.com
 127.0.0.1 cnn.dyn.cnn.com
 127.0.0.1 gdyn.cnn.com
@@ -1900,6 +1900,7 @@
 127.0.0.1 load77.exelator.com
 127.0.0.1 loadm.exelator.com
 127.0.0.1 www.webdissector.com
+127.0.0.1 nnm.chrommotor.com
 127.0.0.1 m.vcuor.com
 127.0.0.1 m.exusr.com
 127.0.0.1 aper.zhfosenghtr.com
@@ -2737,6 +2738,7 @@
 127.0.0.1 t.adbxb.cn
 127.0.0.1 e.21lxb.cn
 127.0.0.1 m.fy4zb.cn
+127.0.0.1 m.i810c.cn
 127.0.0.1 m.69o1c.cn
 127.0.0.1 e.w6o2c.cn
 127.0.0.1 m.w6o2c.cn
@@ -2790,6 +2792,8 @@
 127.0.0.1 e.51t4d.cn
 127.0.0.1 m.51t4d.cn
 127.0.0.1 m.6gv4d.cn
+127.0.0.1 e.2j75d.cn
+127.0.0.1 m.2j75d.cn
 127.0.0.1 m.43k5d.cn
 127.0.0.1 2mg898.jim86d.cn
 127.0.0.1 2mg.jim86d.cn
@@ -2807,10 +2811,12 @@
 127.0.0.1 m.1x3td.cn
 127.0.0.1 yacafrr.bailingcloud.cn
 127.0.0.1 photo.njlymyd.cn
+127.0.0.1 m.l620e.cn
 127.0.0.1 m.vh92e.cn
 127.0.0.1 e.7ogh2e.cn
 127.0.0.1 anhm.acv5e.cn
 127.0.0.1 o.lj7t6e.cn
+127.0.0.1 m.lws48e.cn
 127.0.0.1 ads.ce.cn
 127.0.0.1 lerg.bpafree.cn
 127.0.0.1 s.xcfe.cn
@@ -2967,6 +2973,8 @@
 127.0.0.1 e.kzwsh.cn
 127.0.0.1 m.6i9th.cn
 127.0.0.1 12i.cn
+127.0.0.1 e.6w23i.cn
+127.0.0.1 m.6w23i.cn
 127.0.0.1 m.0vj6i.cn
 127.0.0.1 e.q047i.cn
 127.0.0.1 m.q047i.cn
@@ -3028,6 +3036,7 @@
 127.0.0.1 reply.lomark.cn
 127.0.0.1 xhnt.snqrk.cn
 127.0.0.1 dd.iask.cn
+127.0.0.1 e.p98ytk.cn
 127.0.0.1 m.97tuk.cn
 127.0.0.1 tbax.woyvk.cn
 127.0.0.1 vmjjzk.cn
@@ -3512,6 +3521,7 @@
 127.0.0.1 pong.fccay.cn
 127.0.0.1 api2.play.cn
 127.0.0.1 open.play.cn
+127.0.0.1 m.cjjcby.cn
 127.0.0.1 m.lglady.cn
 127.0.0.1 jb.eastlady.cn
 127.0.0.1 abc.eastlady.cn
