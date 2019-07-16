@@ -909,7 +909,7 @@
 127.0.0.1 jspassport.ssl.qhimg.com
 127.0.0.1 s2.zdmimg.com
 127.0.0.1 pgdt.ugdtimg.com
-127.0.0.1 bla.gtimg.com
+#127.0.0.1 bla.gtimg.com
 127.0.0.1 ra.gtimg.com
 127.0.0.1 wa.gtimg.com
 127.0.0.1 swa.gtimg.com
