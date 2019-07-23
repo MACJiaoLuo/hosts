@@ -79,6 +79,8 @@
 
 #   tx
 127.0.0.1 android.bugly.qq.com
+127.0.0.1 btrace.qq.com
+127.0.0.1 variety.tc.qq.com
 
 #@      BT
 #btdb
@@ -218,6 +220,7 @@
 #mi
 #+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 api.sec.miui.com
+127.0.0.1 resolver.msg.xiaomi.net
 
 #hw
 127.0.0.1 push1.hicloud.com

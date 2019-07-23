@@ -1,4 +1,4 @@
-## version：2019-07-21 00:11:44
+## version：2019-07-23 17:56:33
 #url=https://github.com/vokins/yhosts/
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
@@ -7939,6 +7939,8 @@
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 android.bugly.qq.com
+127.0.0.1 btrace.qq.com
+127.0.0.1 variety.tc.qq.com
 127.0.0.1 sa.bbc.co.uk
 127.0.0.1 js-cdn.dynatrace.com
 127.0.0.1 gwiq.globalwebindex.net
@@ -8039,6 +8041,7 @@
 127.0.0.1 schema.org
 127.0.0.1 ad.yieldmanager.com
 127.0.0.1 api.sec.miui.com
+127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 push1.hicloud.com
 127.0.0.1 connect.facebook.net
 127.0.0.1 graph.facebook.com
